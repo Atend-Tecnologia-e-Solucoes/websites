@@ -61,7 +61,7 @@ export function ApplicationShowcaseSection() {
                           <li className="flex items-start">
                             <CheckIcon className="w-6 h-6 text-primary-500 mr-3 mt-0.5 flex-shrink-0" />
                             <span className="text-gray-700">
-                              Transferências e TED/DOC em tempo real
+                              Transferências e TED/DOC
                             </span>
                           </li>
                           <li className="flex items-start">
@@ -70,17 +70,23 @@ export function ApplicationShowcaseSection() {
                               Carteira de criptomoedas integrada
                             </span>
                           </li>
+                          <li className="flex items-start">
+                            <CheckIcon className="w-6 h-6 text-primary-500 mr-3 mt-0.5 flex-shrink-0" />
+                            <span className="text-gray-700">
+                              Cartões de crédito
+                            </span>
+                          </li>
                         </ul>
                       </div>
                     </SlideInLeft>
                     <SlideInRight delay={0.2}>
-                      <div className="relative rounded-xl overflow-hidden shadow-lg">
+                      <div className="relative rounded-xl overflow-hidden shadow-lg h-[420px] sm:h-[400px]">
                         <Image
-                          src="/images/pix-express-completo-v2-1166x527.png"
+                          src="/images/phone-main-page.jpg"
                           alt="Aplicativo Mobile"
-                          width={1166}
-                          height={527}
-                          className="w-full h-auto object-cover"
+                          width={1200}
+                          height={800}
+                          className="w-full h-full object-cover object-center scale-125"
                           priority
                         />
                       </div>
@@ -169,7 +175,7 @@ export function ApplicationShowcaseSection() {
                           <li className="flex items-start">
                             <CheckIcon className="w-6 h-6 text-primary-500 mr-3 mt-0.5 flex-shrink-0" />
                             <span className="text-gray-700">
-                              Interface totalmente personalizável
+                              Temas personalizados para sua marca
                             </span>
                           </li>
                           <li className="flex items-start">
@@ -193,6 +199,18 @@ export function ApplicationShowcaseSection() {
                         </ul>
                       </div>
                     </SlideInLeft>
+                    <SlideInRight>
+                      <div className="relative rounded-2xl overflow-hidden shadow-2xl">
+                        <Image
+                          src="/images/internet-banking.png"
+                          alt="Internet Banking"
+                          width={1200}
+                          height={400}
+                          className="w-full h-auto object-contain object-center scale-90"
+                          priority
+                        />
+                      </div>
+                    </SlideInRight>
                   </div>
                 </div>
               </ScaleIn>

@@ -29,21 +29,20 @@ export function BaaSServicesSection() {
             </span>
           </div>
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            Serviços Financeiros Completos via BaaS
+            Serviços Financeiros Completos
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Solução completa de Banking as a Service para empresas que desejam
-            oferecer serviços financeiros digitais com suporte a criptomoedas,
-            pagamentos instantâneos e conta digital completa
+            Solução completa para serviços financeiros digitais com suporte a
+            criptomoedas, pagamentos instantâneos, cartoes de credito e conta
+            digital completa.
           </p>
         </FadeInUp>
-
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
           <SlideInLeft delay={0.2}>
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src="/images/stable_coin_wallet.jpg"
-                alt="Carteira de Criptomoedas"
+                src="/images/pix_payment.jpg"
+                alt="Pagamentos PIX"
                 width={800}
                 height={600}
                 className="w-full h-auto object-cover"
@@ -54,13 +53,153 @@ export function BaaSServicesSection() {
           <SlideInRight>
             <div>
               <h3 className="text-3xl font-bold text-gray-900 mb-4">
-                Carteira de Criptomoedas Integrada
+                Pagamentos PIX Instantâneos
               </h3>
               <p className="text-lg text-gray-600 mb-6">
-                Ofereça aos seus clientes uma carteira digital completa para
-                armazenar, receber e enviar criptomoedas de forma segura e
-                simplificada. Suporte para múltiplas criptomoedas e tokens
-                estáveis (stablecoins).
+                Ofereça pagamentos PIX instantâneos e gratuitos para seus
+                clientes. Integração completa com o sistema bancário brasileiro
+                para transferências 24/7.
+              </p>
+              <div className="space-y-4">
+                <div className="flex items-start">
+                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
+                    <LightningIcon className="w-5 h-5 text-primary-500" />
+                  </div>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 mb-1">
+                      Transações Instantâneas 24/7
+                    </h4>
+                    <p className="text-gray-600">
+                      PIX disponível a qualquer hora, todos os dias da semana,
+                      com confirmação em segundos.
+                    </p>
+                  </div>
+                </div>
+                <div className="flex items-start">
+                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
+                    <CheckCircleIcon className="w-5 h-5 text-primary-500" />
+                  </div>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 mb-1">
+                      Pague PIX com Criptomoedas
+                    </h4>
+                    <p className="text-gray-600">
+                      Utilize o saldo da sua carteira de criptomoedas para pagar
+                      PIX instantaneamente.
+                    </p>
+                  </div>
+                </div>
+                <div className="flex items-start">
+                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
+                    <MobileIcon className="w-5 h-5 text-primary-500" />
+                  </div>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 mb-1">
+                      QR Code e Chaves PIX
+                    </h4>
+                    <p className="text-gray-600">
+                      Suporte completo para QR codes dinâmicos e estáticos, além
+                      de chaves PIX personalizadas (CPF, email, telefone).
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </SlideInRight>
+        </div>
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-16 items-center">
+          <SlideInLeft>
+            <div>
+              <h3 className="text-3xl font-bold text-gray-900 mb-4">
+                Cartões de Crédito
+              </h3>
+              <p className="text-lg text-gray-600 mb-6">
+                Emita cartões físicos e virtuais para seus clientes com controle
+                total sobre limites, bloqueios e configurações. Suporte completo
+                para bandeiras nacionais e internacionais.
+              </p>
+              <div className="space-y-4">
+                <div className="flex items-start">
+                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
+                    <CheckCircleIcon className="w-5 h-5 text-primary-500" />
+                  </div>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 mb-1">
+                      Cartões Físicos e Virtuais
+                    </h4>
+                    <p className="text-gray-600">
+                      Emita cartões físicos personalizados ou cartões virtuais
+                      instantâneos para uso imediato em aplicativos.
+                    </p>
+                  </div>
+                </div>
+                <div className="flex items-start">
+                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
+                    <LockIcon className="w-5 h-5 text-primary-500" />
+                  </div>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 mb-1">
+                      Controle Total e Segurança
+                    </h4>
+                    <p className="text-gray-600">
+                      Gerencie limites, bloqueios, desbloqueios e configurações
+                      de segurança em tempo real para cada cartão.
+                    </p>
+                  </div>
+                </div>
+                <div className="flex items-start">
+                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
+                    <ChartIcon className="w-5 h-5 text-primary-500" />
+                  </div>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 mb-1">
+                      Notificações e Extratos
+                    </h4>
+                    <p className="text-gray-600">
+                      Notificações em tempo real de todas as transações e
+                      extratos detalhados disponíveis no seu painel.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </SlideInLeft>
+          <SlideInRight delay={0.2}>
+            <div className="relative rounded-2xl overflow-hidden shadow-2xl h-[520px] sm:h-[600px]">
+              <Image
+                src="/images/phone-credit-card.png"
+                alt="Cartões de Crédito e Débito"
+                width={800}
+                height={600}
+                className="w-full h-full object-cover"
+                priority
+              />
+            </div>
+          </SlideInRight>
+        </div>
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
+          <SlideInLeft delay={0.2}>
+            <div className="relative rounded-2xl overflow-hidden shadow-2xl h-[520px] sm:h-[600px]">
+              <Image
+                src="/images/phone-crypto.png"
+                alt="Carteira de Criptomoedas"
+                width={800}
+                height={600}
+                className="w-full h-full object-cover object-top"
+                priority
+              />
+            </div>
+          </SlideInLeft>
+          <SlideInRight>
+            <div>
+              <h3 className="text-3xl font-bold text-gray-900 mb-4">
+                Wallet de Criptomoedas Integrada
+              </h3>
+              <p className="text-lg text-gray-600 mb-6">
+                Ofereça aos seus clientes uma wallet verdadeira, vinculada a
+                blockchain, e integrada ao seu sistema para armazenar, receber e
+                enviar criptomoedas de forma segura e simplificada. Suporte para
+                múltiplas criptomoedas e tokens estáveis (stablecoins).
               </p>
               <div className="space-y-4">
                 <div className="flex items-start">
@@ -118,8 +257,8 @@ export function BaaSServicesSection() {
               </h3>
               <p className="text-lg text-gray-600 mb-6">
                 Permita que seus clientes façam pagamentos usando criptomoedas
-                tanto para transações P2P quanto para pagamentos comerciais.
-                Suporte completo para QR codes e links de pagamento.
+                tanto para P2P (Peer to Peer) quanto para transaçoes PIX com
+                suporte completo para QR codes e links de pagamento.
               </p>
               <div className="space-y-4">
                 <div className="flex items-start">
@@ -169,161 +308,18 @@ export function BaaSServicesSection() {
             </div>
           </SlideInLeft>
           <SlideInRight delay={0.2}>
-            <div className="relative rounded-2xl overflow-hidden shadow-2xl">
+            <div className="relative rounded-2xl overflow-hidden shadow-2xl h-[520px] sm:h-[600px]">
               <Image
-                src="/images/digital_account.jpg"
+                src="/images/office-workers-using-finance-graphs.jpg"
                 alt="Pagamentos Digitais"
                 width={800}
                 height={600}
-                className="w-full h-auto object-cover"
+                className="w-full h-full object-cover"
                 priority
               />
             </div>
           </SlideInRight>
         </div>
-
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
-          <SlideInLeft delay={0.2}>
-            <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-              <Image
-                src="/images/pix_payment.jpg"
-                alt="Pagamentos PIX"
-                width={800}
-                height={600}
-                className="w-full h-auto object-cover"
-                priority
-              />
-            </div>
-          </SlideInLeft>
-          <SlideInRight>
-            <div>
-              <h3 className="text-3xl font-bold text-gray-900 mb-4">
-                Pagamentos PIX Instantâneos
-              </h3>
-              <p className="text-lg text-gray-600 mb-6">
-                Ofereça pagamentos PIX instantâneos e gratuitos para seus
-                clientes. Integração completa com o sistema bancário brasileiro
-                para transferências 24/7 sem custos adicionais.
-              </p>
-              <div className="space-y-4">
-                <div className="flex items-start">
-                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
-                    <LightningIcon className="w-5 h-5 text-primary-500" />
-                  </div>
-                  <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">
-                      Transações Instantâneas 24/7
-                    </h4>
-                    <p className="text-gray-600">
-                      PIX disponível a qualquer hora, todos os dias da semana,
-                      com confirmação em segundos.
-                    </p>
-                  </div>
-                </div>
-                <div className="flex items-start">
-                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
-                    <CheckCircleIcon className="w-5 h-5 text-primary-500" />
-                  </div>
-                  <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">
-                      Sem Taxas de Transação
-                    </h4>
-                    <p className="text-gray-600">
-                      Pagamentos PIX totalmente gratuitos para seus clientes,
-                      reduzindo custos operacionais.
-                    </p>
-                  </div>
-                </div>
-                <div className="flex items-start">
-                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
-                    <MobileIcon className="w-5 h-5 text-primary-500" />
-                  </div>
-                  <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">
-                      QR Code e Chaves PIX
-                    </h4>
-                    <p className="text-gray-600">
-                      Suporte completo para QR codes dinâmicos e estáticos, além
-                      de chaves PIX personalizadas (CPF, email, telefone).
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </SlideInRight>
-        </div>
-
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-          <SlideInLeft>
-            <div>
-              <h3 className="text-3xl font-bold text-gray-900 mb-4">
-                Cartões de Crédito
-              </h3>
-              <p className="text-lg text-gray-600 mb-6">
-                Emita cartões físicos e virtuais para seus clientes com controle
-                total sobre limites, bloqueios e configurações. Suporte completo
-                para bandeiras nacionais e internacionais.
-              </p>
-              <div className="space-y-4">
-                <div className="flex items-start">
-                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
-                    <CheckCircleIcon className="w-5 h-5 text-primary-500" />
-                  </div>
-                  <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">
-                      Cartões Físicos e Virtuais
-                    </h4>
-                    <p className="text-gray-600">
-                      Emita cartões físicos personalizados ou cartões virtuais
-                      instantâneos para uso imediato em aplicativos.
-                    </p>
-                  </div>
-                </div>
-                <div className="flex items-start">
-                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
-                    <LockIcon className="w-5 h-5 text-primary-500" />
-                  </div>
-                  <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">
-                      Controle Total e Segurança
-                    </h4>
-                    <p className="text-gray-600">
-                      Gerencie limites, bloqueios, desbloqueios e configurações
-                      de segurança em tempo real para cada cartão.
-                    </p>
-                  </div>
-                </div>
-                <div className="flex items-start">
-                  <div className="flex-shrink-0 w-8 h-8 bg-primary-100 rounded-lg flex items-center justify-center mr-4">
-                    <ChartIcon className="w-5 h-5 text-primary-500" />
-                  </div>
-                  <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">
-                      Notificações e Extratos
-                    </h4>
-                    <p className="text-gray-600">
-                      Notificações em tempo real de todas as transações e
-                      extratos detalhados disponíveis para download.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </SlideInLeft>
-          <SlideInRight delay={0.2}>
-            <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-              <Image
-                src="/images/new_card.jpg"
-                alt="Cartões de Crédito e Débito"
-                width={800}
-                height={600}
-                className="w-full h-auto object-cover"
-                priority
-              />
-            </div>
-          </SlideInRight>
-        </div>
-
         {/* Features Grid */}
         <FadeInUp delay={0.2}>
           <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

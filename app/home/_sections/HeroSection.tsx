@@ -19,14 +19,14 @@ export function HeroSection() {
           <FadeInUp delay={0.4}>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Plataforma completa de BaaS para empresas que desejam oferecer
-              serviços financeiros digitais, pagamentos e carteira de
-              criptomoedas sem a complexidade de construir do zero.
+              serviços financeiros digitais sem a complexidade de construir do
+              zero.
             </p>
           </FadeInUp>
           <FadeInUp delay={0.6}>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild>
-                <Link href="#contato">Começar Agora</Link>
+                <Link href="#whatsapp">Começar Agora</Link>
               </Button>
               <Button variant="outline" asChild>
                 <Link href="#aplicativo">Saiba Mais</Link>
