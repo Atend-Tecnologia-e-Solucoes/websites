@@ -1,3 +1,5 @@
+"use client";
+
 import { FadeInUp, ScaleIn } from "@/components/animations";
 import ContactForm from "@/components/ContactForm";
 
