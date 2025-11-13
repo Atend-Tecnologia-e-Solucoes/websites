@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { Button } from "@/components/ui/button";
-import { FadeIn, FadeInUp } from "@/components/animations";
+import { Button } from "../../../components/ui/button";
+import { FadeIn, FadeInUp } from "../../../components/animations";
 
 export function HeroSection() {
   return (

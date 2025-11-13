@@ -1,15 +1,20 @@
 "use client";
 
 import Image from "next/image";
-import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
+import {
+  Tabs,
+  TabsList,
+  TabsTrigger,
+  TabsContent,
+} from "../../../components/ui/tabs";
 import {
   FadeInUp,
   FadeIn,
   SlideInLeft,
   SlideInRight,
   ScaleIn,
-} from "@/components/animations";
-import { CheckIcon } from "@/components/svgs";
+} from "../../../components/animations";
+import { CheckIcon } from "../../../components/svgs";
 
 export function ApplicationShowcaseSection() {
   return (

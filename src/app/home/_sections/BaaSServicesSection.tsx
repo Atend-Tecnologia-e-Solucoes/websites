@@ -6,7 +6,7 @@ import {
   SlideInLeft,
   SlideInRight,
   ScaleIn,
-} from "@/components/animations";
+} from "../../../components/animations";
 import {
   LockIcon,
   CoinsIcon,
@@ -18,7 +18,7 @@ import {
   ChartIcon,
   UsersIcon,
   CloudIcon,
-} from "@/components/svgs";
+} from "../../../components/svgs";
 
 export function BaaSServicesSection() {
   return (
