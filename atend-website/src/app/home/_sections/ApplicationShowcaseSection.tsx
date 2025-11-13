@@ -110,7 +110,7 @@ export function ApplicationShowcaseSection() {
                     <SlideInLeft delay={0.2}>
                       <div className="relative rounded-xl overflow-hidden shadow-lg order-2 lg:order-1">
                         <Image
-                          src="/images/dashboard.png"
+                          src="../../public/images/dashboard.png"
                           alt="Painel Administrativo Web"
                           width={1200}
                           height={800}

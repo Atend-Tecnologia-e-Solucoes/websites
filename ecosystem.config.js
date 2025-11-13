@@ -5,8 +5,7 @@ module.exports = {
     {
       name: "atend-website",
       cwd: "./atend-website",
-      // Opção 1: Usar script shell (recomendado - mais controle)
-      script: "./start.sh",
+      script: "start",
       interpreter: "bash",
       // Opção 2: Usar npm diretamente (descomente se preferir)
       // script: "npm",
