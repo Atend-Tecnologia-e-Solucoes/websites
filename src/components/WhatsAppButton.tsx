@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { WhatsAppIcon } from "@components/svgs";
+import { WhatsAppIcon } from "../components/svgs";
 
 interface WhatsAppButtonProps {
   phoneNumber: string;

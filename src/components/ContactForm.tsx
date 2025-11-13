@@ -4,8 +4,8 @@ import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
 import { useState } from "react";
-import { Label } from "@components/ui/label";
-import { Button } from "@components/ui/button";
+import { Label } from "../components/ui/label";
+import { Button } from "../components/ui/button";
 
 const contactSchema = z.object({
   name: z.string().min(2, "O nome deve ter pelo menos 2 caracteres"),

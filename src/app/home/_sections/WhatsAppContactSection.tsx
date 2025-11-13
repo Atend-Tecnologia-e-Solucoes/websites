@@ -8,7 +8,7 @@ import {
   LightningIcon,
   UsersIcon,
   CheckCircleIcon,
-} from "@components/svgs";
+} from "../../../components/svgs";
 
 export function WhatsAppContactSection() {
   const phoneNumber = "5511961282600";
