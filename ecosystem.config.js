@@ -11,7 +11,7 @@ module.exports = {
       watch: false,
       env: { PORT: 3000, ...process.env },
       autorestart: true,
-      max_restarts: 10,
+      max_restarts: 2,
       min_uptime: "10s",
       // Logs (caminhos relativos à raiz do projeto, não ao cwd)
       error_file: "../logs/atend-website-error.log",
@@ -27,7 +27,7 @@ module.exports = {
       watch: false,
       env: { PORT: 3001, ...process.env },
       autorestart: true,
-      max_restarts: 10,
+      max_restarts: 2,
       min_uptime: "10s",
       error_file: "../logs/ironblock-web-error.log",
       out_file: "../logs/ironblock-web-out.log",
