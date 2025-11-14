@@ -195,3 +195,238 @@
 2025-11-13 19:29:50 -03:00: 
 2025-11-13 19:29:50 -03:00:  ✓ Starting...
 2025-11-13 19:29:50 -03:00:  ✓ Ready in 357ms
+2025-11-13 21:44:57 -03:00: 
+2025-11-13 21:44:57 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:44:57 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:44:57 -03:00: 
+2025-11-13 21:44:58 -03:00: 
+2025-11-13 21:44:58 -03:00: up to date, audited 392 packages in 719ms
+2025-11-13 21:44:58 -03:00: 
+2025-11-13 21:44:58 -03:00: 147 packages are looking for funding
+2025-11-13 21:44:58 -03:00:   run `npm fund` for details
+2025-11-13 21:44:58 -03:00: 
+2025-11-13 21:44:58 -03:00: found 0 vulnerabilities
+2025-11-13 21:44:58 -03:00: 
+2025-11-13 21:44:58 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:44:58 -03:00: > next build
+2025-11-13 21:44:58 -03:00: 
+2025-11-13 21:44:59 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:44:59 -03:00: 
+2025-11-13 21:44:59 -03:00:    Creating an optimized production build ...
+2025-11-13 21:45:03 -03:00:  ✓ Compiled successfully in 3.5s
+2025-11-13 21:45:03 -03:00:    Running TypeScript ...
+2025-11-13 21:45:05 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 21:45:06 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 21:45:07 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 21:45:07 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 21:45:07 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 21:45:07 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 660.9ms
+2025-11-13 21:45:07 -03:00:    Finalizing page optimization ...
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00: Route (app)
+2025-11-13 21:45:07 -03:00: ┌ ○ /
+2025-11-13 21:45:07 -03:00: ├ ○ /_not-found
+2025-11-13 21:45:07 -03:00: ├ ○ /home
+2025-11-13 21:45:07 -03:00: └ ○ /icon.png
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00: > atend-website@0.1.0 start
+2025-11-13 21:45:07 -03:00: > next start
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 21:45:07 -03:00:    - Local:         http://localhost:3000
+2025-11-13 21:45:07 -03:00:    - Network:       http://192.168.1.4:3000
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00:  ✓ Starting...
+2025-11-13 21:45:08 -03:00:  ✓ Ready in 451ms
+2025-11-13 21:45:20 -03:00: 
+2025-11-13 21:45:20 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:45:20 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:45:20 -03:00: 
+2025-11-13 21:45:21 -03:00: 
+2025-11-13 21:45:21 -03:00: up to date, audited 392 packages in 848ms
+2025-11-13 21:45:21 -03:00: 
+2025-11-13 21:45:21 -03:00: 147 packages are looking for funding
+2025-11-13 21:45:21 -03:00:   run `npm fund` for details
+2025-11-13 21:45:21 -03:00: 
+2025-11-13 21:45:21 -03:00: found 0 vulnerabilities
+2025-11-13 21:45:21 -03:00: 
+2025-11-13 21:45:21 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:45:21 -03:00: > next build
+2025-11-13 21:45:21 -03:00: 
+2025-11-13 21:45:22 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:45:22 -03:00: 
+2025-11-13 21:45:22 -03:00:    Creating an optimized production build ...
+2025-11-13 21:45:27 -03:00:  ✓ Compiled successfully in 4.4s
+2025-11-13 21:45:27 -03:00:    Running TypeScript ...
+2025-11-13 21:45:32 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 21:45:32 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 21:45:33 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 21:45:33 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 21:45:33 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 21:45:33 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 967.6ms
+2025-11-13 21:45:33 -03:00:    Finalizing page optimization ...
+2025-11-13 21:45:33 -03:00: 
+2025-11-13 21:45:33 -03:00: Route (app)
+2025-11-13 21:45:33 -03:00: ┌ ○ /
+2025-11-13 21:45:33 -03:00: ├ ○ /_not-found
+2025-11-13 21:45:33 -03:00: ├ ○ /home
+2025-11-13 21:45:33 -03:00: └ ○ /icon.png
+2025-11-13 21:45:33 -03:00: 
+2025-11-13 21:45:33 -03:00: 
+2025-11-13 21:45:33 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 21:45:33 -03:00: 
+2025-11-13 21:45:34 -03:00: 
+2025-11-13 21:45:34 -03:00: > atend-website@0.1.0 start
+2025-11-13 21:45:34 -03:00: > next start
+2025-11-13 21:45:34 -03:00: 
+2025-11-13 21:45:34 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 21:45:34 -03:00:    - Local:         http://localhost:3000
+2025-11-13 21:45:34 -03:00:    - Network:       http://192.168.1.4:3000
+2025-11-13 21:45:34 -03:00: 
+2025-11-13 21:45:34 -03:00:  ✓ Starting...
+2025-11-13 21:45:35 -03:00:  ✓ Ready in 558ms
+2025-11-13 21:47:54 -03:00: 
+2025-11-13 21:47:54 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:47:54 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:47:54 -03:00: 
+2025-11-13 21:47:55 -03:00: 
+2025-11-13 21:47:55 -03:00: up to date, audited 392 packages in 670ms
+2025-11-13 21:47:55 -03:00: 
+2025-11-13 21:47:55 -03:00: 147 packages are looking for funding
+2025-11-13 21:47:55 -03:00:   run `npm fund` for details
+2025-11-13 21:47:55 -03:00: 
+2025-11-13 21:47:55 -03:00: found 0 vulnerabilities
+2025-11-13 21:47:55 -03:00: 
+2025-11-13 21:47:55 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:47:55 -03:00: > next build
+2025-11-13 21:47:55 -03:00: 
+2025-11-13 21:47:55 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:47:55 -03:00: 
+2025-11-13 21:47:55 -03:00:    Creating an optimized production build ...
+2025-11-13 21:47:59 -03:00:  ✓ Compiled successfully in 3.2s
+2025-11-13 21:47:59 -03:00:    Running TypeScript ...
+2025-11-13 21:48:01 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 21:48:02 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 21:48:03 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 21:48:03 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 21:48:03 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 21:48:03 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 650.7ms
+2025-11-13 21:48:03 -03:00:    Finalizing page optimization ...
+2025-11-13 21:48:03 -03:00: 
+2025-11-13 21:48:03 -03:00: Route (app)
+2025-11-13 21:48:03 -03:00: ┌ ○ /
+2025-11-13 21:48:03 -03:00: ├ ○ /_not-found
+2025-11-13 21:48:03 -03:00: ├ ○ /home
+2025-11-13 21:48:03 -03:00: └ ○ /icon.png
+2025-11-13 21:48:03 -03:00: 
+2025-11-13 21:48:03 -03:00: 
+2025-11-13 21:48:03 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 21:48:03 -03:00: 
+2025-11-13 21:48:03 -03:00: 
+2025-11-13 21:48:03 -03:00: > atend-website@0.1.0 start
+2025-11-13 21:48:03 -03:00: > next start
+2025-11-13 21:48:03 -03:00: 
+2025-11-13 21:48:04 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 21:48:04 -03:00:    - Local:         http://localhost:3000
+2025-11-13 21:48:04 -03:00:    - Network:       http://192.168.1.4:3000
+2025-11-13 21:48:04 -03:00: 
+2025-11-13 21:48:04 -03:00:  ✓ Starting...
+2025-11-13 21:48:04 -03:00:  ✓ Ready in 958ms
+2025-11-13 21:49:31 -03:00: 
+2025-11-13 21:49:31 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:49:31 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:49:31 -03:00: 
+2025-11-13 21:49:32 -03:00: 
+2025-11-13 21:49:32 -03:00: up to date, audited 392 packages in 649ms
+2025-11-13 21:49:32 -03:00: 
+2025-11-13 21:49:32 -03:00: 147 packages are looking for funding
+2025-11-13 21:49:32 -03:00:   run `npm fund` for details
+2025-11-13 21:49:32 -03:00: 
+2025-11-13 21:49:32 -03:00: found 0 vulnerabilities
+2025-11-13 21:49:32 -03:00: 
+2025-11-13 21:49:32 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:49:32 -03:00: > next build
+2025-11-13 21:49:32 -03:00: 
+2025-11-13 21:49:33 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:49:33 -03:00: 
+2025-11-13 21:49:33 -03:00:    Creating an optimized production build ...
+2025-11-13 21:49:37 -03:00:  ✓ Compiled successfully in 3.2s
+2025-11-13 21:49:37 -03:00:    Running TypeScript ...
+2025-11-13 21:49:39 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 21:49:40 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 21:49:41 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 21:49:41 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 21:49:41 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 21:49:41 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 874.7ms
+2025-11-13 21:49:41 -03:00:    Finalizing page optimization ...
+2025-11-13 21:49:41 -03:00: 
+2025-11-13 21:49:41 -03:00: Route (app)
+2025-11-13 21:49:41 -03:00: ┌ ○ /
+2025-11-13 21:49:41 -03:00: ├ ○ /_not-found
+2025-11-13 21:49:41 -03:00: ├ ○ /home
+2025-11-13 21:49:41 -03:00: └ ○ /icon.png
+2025-11-13 21:49:41 -03:00: 
+2025-11-13 21:49:41 -03:00: 
+2025-11-13 21:49:41 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 21:49:41 -03:00: 
+2025-11-13 21:49:42 -03:00: 
+2025-11-13 21:49:42 -03:00: > atend-website@0.1.0 start
+2025-11-13 21:49:42 -03:00: > next start
+2025-11-13 21:49:42 -03:00: 
+2025-11-13 21:49:42 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 21:49:42 -03:00:    - Local:         http://localhost:3000
+2025-11-13 21:49:42 -03:00:    - Network:       http://192.168.1.4:3000
+2025-11-13 21:49:42 -03:00: 
+2025-11-13 21:49:42 -03:00:  ✓ Starting...
+2025-11-13 21:49:43 -03:00:  ✓ Ready in 1022ms
+2025-11-13 21:52:51 -03:00: 
+2025-11-13 21:52:51 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:52:51 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:52:51 -03:00: 
+2025-11-13 21:52:52 -03:00: 
+2025-11-13 21:52:52 -03:00: up to date, audited 392 packages in 689ms
+2025-11-13 21:52:52 -03:00: 
+2025-11-13 21:52:52 -03:00: 147 packages are looking for funding
+2025-11-13 21:52:52 -03:00:   run `npm fund` for details
+2025-11-13 21:52:52 -03:00: 
+2025-11-13 21:52:52 -03:00: found 0 vulnerabilities
+2025-11-13 21:52:52 -03:00: 
+2025-11-13 21:52:52 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:52:52 -03:00: > next build
+2025-11-13 21:52:52 -03:00: 
+2025-11-13 21:52:53 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:52:53 -03:00: 
+2025-11-13 21:52:53 -03:00:    Creating an optimized production build ...
+2025-11-13 21:52:58 -03:00:  ✓ Compiled successfully in 4.5s
+2025-11-13 21:52:58 -03:00:    Running TypeScript ...
+2025-11-13 21:53:04 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 21:53:06 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 21:53:07 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 21:53:07 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 21:53:07 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 21:53:07 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 1426.1ms
+2025-11-13 21:53:07 -03:00:    Finalizing page optimization ...
+2025-11-13 21:53:07 -03:00: 
+2025-11-13 21:53:07 -03:00: Route (app)
+2025-11-13 21:53:07 -03:00: ┌ ○ /
+2025-11-13 21:53:07 -03:00: ├ ○ /_not-found
+2025-11-13 21:53:07 -03:00: ├ ○ /home
+2025-11-13 21:53:07 -03:00: └ ○ /icon.png
+2025-11-13 21:53:07 -03:00: 
+2025-11-13 21:53:07 -03:00: 
+2025-11-13 21:53:07 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 21:53:07 -03:00: 
+2025-11-13 21:53:08 -03:00: 
+2025-11-13 21:53:08 -03:00: > atend-website@0.1.0 start
+2025-11-13 21:53:08 -03:00: > next start
+2025-11-13 21:53:08 -03:00: 
+2025-11-13 21:53:08 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 21:53:08 -03:00:    - Local:         http://localhost:3000
+2025-11-13 21:53:08 -03:00:    - Network:       http://192.168.1.4:3000
+2025-11-13 21:53:08 -03:00: 
+2025-11-13 21:53:08 -03:00:  ✓ Starting...
+2025-11-13 21:53:08 -03:00:  ✓ Ready in 367ms

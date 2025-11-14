@@ -1,0 +1,1970 @@
+2025-11-13 21:44:57 -03:00: 
+2025-11-13 21:44:57 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:44:57 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:44:57 -03:00: 
+2025-11-13 21:44:58 -03:00: 
+2025-11-13 21:44:58 -03:00: up to date, audited 392 packages in 824ms
+2025-11-13 21:44:58 -03:00: 
+2025-11-13 21:44:58 -03:00: 147 packages are looking for funding
+2025-11-13 21:44:58 -03:00:   run `npm fund` for details
+2025-11-13 21:44:58 -03:00: 
+2025-11-13 21:44:58 -03:00: found 0 vulnerabilities
+2025-11-13 21:44:58 -03:00: 
+2025-11-13 21:44:58 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:44:58 -03:00: > next build
+2025-11-13 21:44:58 -03:00: 
+2025-11-13 21:44:59 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:44:59 -03:00: 
+2025-11-13 21:44:59 -03:00:    Creating an optimized production build ...
+2025-11-13 21:45:03 -03:00:  ✓ Compiled successfully in 3.5s
+2025-11-13 21:45:03 -03:00:    Running TypeScript ...
+2025-11-13 21:45:06 -03:00: 
+2025-11-13 21:45:06 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:45:06 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:45:06 -03:00: 
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00: up to date, audited 392 packages in 759ms
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00: 147 packages are looking for funding
+2025-11-13 21:45:07 -03:00:   run `npm fund` for details
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00: found 0 vulnerabilities
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:07 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:45:07 -03:00: > next build
+2025-11-13 21:45:07 -03:00: 
+2025-11-13 21:45:08 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:45:08 -03:00: 
+2025-11-13 21:45:08 -03:00:    Creating an optimized production build ...
+2025-11-13 21:45:12 -03:00:  ✓ Compiled successfully in 3.2s
+2025-11-13 21:45:12 -03:00:    Running TypeScript ...
+2025-11-13 21:45:14 -03:00: 
+2025-11-13 21:45:14 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:45:14 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:45:14 -03:00: 
+2025-11-13 21:45:15 -03:00: 
+2025-11-13 21:45:15 -03:00: up to date, audited 392 packages in 788ms
+2025-11-13 21:45:15 -03:00: 
+2025-11-13 21:45:15 -03:00: 147 packages are looking for funding
+2025-11-13 21:45:15 -03:00:   run `npm fund` for details
+2025-11-13 21:45:15 -03:00: 
+2025-11-13 21:45:15 -03:00: found 0 vulnerabilities
+2025-11-13 21:45:15 -03:00: 
+2025-11-13 21:45:15 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:45:15 -03:00: > next build
+2025-11-13 21:45:15 -03:00: 
+2025-11-13 21:45:16 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:45:16 -03:00: 
+2025-11-13 21:45:16 -03:00:    Creating an optimized production build ...
+2025-11-13 21:45:19 -03:00:  ✓ Compiled successfully in 2.9s
+2025-11-13 21:45:19 -03:00:    Running TypeScript ...
+2025-11-13 21:45:20 -03:00: 
+2025-11-13 21:45:20 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:45:20 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:45:20 -03:00: 
+2025-11-13 21:45:22 -03:00: 
+2025-11-13 21:45:22 -03:00: up to date, audited 392 packages in 1s
+2025-11-13 21:45:22 -03:00: 
+2025-11-13 21:45:22 -03:00: 147 packages are looking for funding
+2025-11-13 21:45:22 -03:00:   run `npm fund` for details
+2025-11-13 21:45:22 -03:00: 
+2025-11-13 21:45:22 -03:00: found 0 vulnerabilities
+2025-11-13 21:45:22 -03:00: 
+2025-11-13 21:45:22 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:45:22 -03:00: > next build
+2025-11-13 21:45:22 -03:00: 
+2025-11-13 21:45:23 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:45:23 -03:00: 
+2025-11-13 21:45:23 -03:00:    Creating an optimized production build ...
+2025-11-13 21:45:28 -03:00:  ✓ Compiled successfully in 4.5s
+2025-11-13 21:45:28 -03:00:    Running TypeScript ...
+2025-11-13 21:45:33 -03:00: 
+2025-11-13 21:45:33 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:45:33 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:45:33 -03:00: 
+2025-11-13 21:45:34 -03:00: 
+2025-11-13 21:45:34 -03:00: up to date, audited 392 packages in 1s
+2025-11-13 21:45:34 -03:00: 
+2025-11-13 21:45:34 -03:00: 147 packages are looking for funding
+2025-11-13 21:45:34 -03:00:   run `npm fund` for details
+2025-11-13 21:45:34 -03:00: 
+2025-11-13 21:45:34 -03:00: found 0 vulnerabilities
+2025-11-13 21:45:34 -03:00: 
+2025-11-13 21:45:34 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:45:34 -03:00: > next build
+2025-11-13 21:45:34 -03:00: 
+2025-11-13 21:45:35 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:45:35 -03:00: 
+2025-11-13 21:45:35 -03:00:    Creating an optimized production build ...
+2025-11-13 21:45:38 -03:00:  ✓ Compiled successfully in 3.0s
+2025-11-13 21:45:38 -03:00:    Running TypeScript ...
+2025-11-13 21:45:41 -03:00: 
+2025-11-13 21:45:41 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:45:41 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:45:41 -03:00: 
+2025-11-13 21:45:42 -03:00: 
+2025-11-13 21:45:42 -03:00: up to date, audited 392 packages in 880ms
+2025-11-13 21:45:42 -03:00: 
+2025-11-13 21:45:42 -03:00: 147 packages are looking for funding
+2025-11-13 21:45:42 -03:00:   run `npm fund` for details
+2025-11-13 21:45:42 -03:00: 
+2025-11-13 21:45:42 -03:00: found 0 vulnerabilities
+2025-11-13 21:45:42 -03:00: 
+2025-11-13 21:45:42 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:45:42 -03:00: > next build
+2025-11-13 21:45:42 -03:00: 
+2025-11-13 21:45:43 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:45:43 -03:00: 
+2025-11-13 21:45:43 -03:00:    Creating an optimized production build ...
+2025-11-13 21:45:46 -03:00:  ✓ Compiled successfully in 2.8s
+2025-11-13 21:45:46 -03:00:    Running TypeScript ...
+2025-11-13 21:45:48 -03:00: 
+2025-11-13 21:45:48 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:45:48 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:45:48 -03:00: 
+2025-11-13 21:45:49 -03:00: 
+2025-11-13 21:45:49 -03:00: up to date, audited 392 packages in 799ms
+2025-11-13 21:45:49 -03:00: 
+2025-11-13 21:45:49 -03:00: 147 packages are looking for funding
+2025-11-13 21:45:49 -03:00:   run `npm fund` for details
+2025-11-13 21:45:49 -03:00: 
+2025-11-13 21:45:49 -03:00: found 0 vulnerabilities
+2025-11-13 21:45:49 -03:00: 
+2025-11-13 21:45:49 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:45:49 -03:00: > next build
+2025-11-13 21:45:49 -03:00: 
+2025-11-13 21:45:50 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:45:50 -03:00: 
+2025-11-13 21:45:50 -03:00:    Creating an optimized production build ...
+2025-11-13 21:45:54 -03:00:  ✓ Compiled successfully in 3.5s
+2025-11-13 21:45:54 -03:00:    Running TypeScript ...
+2025-11-13 21:45:57 -03:00: 
+2025-11-13 21:45:57 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:45:57 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:45:57 -03:00: 
+2025-11-13 21:45:58 -03:00: 
+2025-11-13 21:45:58 -03:00: up to date, audited 392 packages in 894ms
+2025-11-13 21:45:58 -03:00: 
+2025-11-13 21:45:58 -03:00: 147 packages are looking for funding
+2025-11-13 21:45:58 -03:00:   run `npm fund` for details
+2025-11-13 21:45:58 -03:00: 
+2025-11-13 21:45:58 -03:00: found 0 vulnerabilities
+2025-11-13 21:45:58 -03:00: 
+2025-11-13 21:45:58 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:45:58 -03:00: > next build
+2025-11-13 21:45:58 -03:00: 
+2025-11-13 21:45:59 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:45:59 -03:00: 
+2025-11-13 21:45:59 -03:00:    Creating an optimized production build ...
+2025-11-13 21:46:02 -03:00:  ✓ Compiled successfully in 2.9s
+2025-11-13 21:46:02 -03:00:    Running TypeScript ...
+2025-11-13 21:46:05 -03:00: 
+2025-11-13 21:46:05 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:46:05 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:46:05 -03:00: 
+2025-11-13 21:46:06 -03:00: 
+2025-11-13 21:46:06 -03:00: up to date, audited 392 packages in 835ms
+2025-11-13 21:46:06 -03:00: 
+2025-11-13 21:46:06 -03:00: 147 packages are looking for funding
+2025-11-13 21:46:06 -03:00:   run `npm fund` for details
+2025-11-13 21:46:06 -03:00: 
+2025-11-13 21:46:06 -03:00: found 0 vulnerabilities
+2025-11-13 21:46:06 -03:00: 
+2025-11-13 21:46:06 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:46:06 -03:00: > next build
+2025-11-13 21:46:06 -03:00: 
+2025-11-13 21:46:06 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:46:06 -03:00: 
+2025-11-13 21:46:06 -03:00:    Creating an optimized production build ...
+2025-11-13 21:46:10 -03:00:  ✓ Compiled successfully in 2.7s
+2025-11-13 21:46:10 -03:00:    Running TypeScript ...
+2025-11-13 21:46:12 -03:00: 
+2025-11-13 21:46:12 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:46:12 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:46:12 -03:00: 
+2025-11-13 21:46:13 -03:00: 
+2025-11-13 21:46:13 -03:00: up to date, audited 392 packages in 942ms
+2025-11-13 21:46:13 -03:00: 
+2025-11-13 21:46:13 -03:00: 147 packages are looking for funding
+2025-11-13 21:46:13 -03:00:   run `npm fund` for details
+2025-11-13 21:46:13 -03:00: 
+2025-11-13 21:46:13 -03:00: found 0 vulnerabilities
+2025-11-13 21:46:13 -03:00: 
+2025-11-13 21:46:13 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:46:13 -03:00: > next build
+2025-11-13 21:46:13 -03:00: 
+2025-11-13 21:46:14 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:46:14 -03:00: 
+2025-11-13 21:46:14 -03:00:    Creating an optimized production build ...
+2025-11-13 21:46:17 -03:00:  ✓ Compiled successfully in 3.0s
+2025-11-13 21:46:17 -03:00:    Running TypeScript ...
+2025-11-13 21:46:20 -03:00: 
+2025-11-13 21:46:20 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:46:20 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:46:20 -03:00: 
+2025-11-13 21:46:21 -03:00: 
+2025-11-13 21:46:21 -03:00: up to date, audited 392 packages in 758ms
+2025-11-13 21:46:21 -03:00: 
+2025-11-13 21:46:21 -03:00: 147 packages are looking for funding
+2025-11-13 21:46:21 -03:00:   run `npm fund` for details
+2025-11-13 21:46:21 -03:00: 
+2025-11-13 21:46:21 -03:00: found 0 vulnerabilities
+2025-11-13 21:46:21 -03:00: 
+2025-11-13 21:46:21 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:46:21 -03:00: > next build
+2025-11-13 21:46:21 -03:00: 
+2025-11-13 21:46:21 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:46:21 -03:00: 
+2025-11-13 21:46:21 -03:00:    Creating an optimized production build ...
+2025-11-13 21:46:25 -03:00:  ✓ Compiled successfully in 3.0s
+2025-11-13 21:46:25 -03:00:    Running TypeScript ...
+2025-11-13 21:46:27 -03:00: 
+2025-11-13 21:46:27 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:46:27 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:46:27 -03:00: 
+2025-11-13 21:46:28 -03:00: 
+2025-11-13 21:46:28 -03:00: up to date, audited 392 packages in 733ms
+2025-11-13 21:46:28 -03:00: 
+2025-11-13 21:46:28 -03:00: 147 packages are looking for funding
+2025-11-13 21:46:28 -03:00:   run `npm fund` for details
+2025-11-13 21:46:28 -03:00: 
+2025-11-13 21:46:28 -03:00: found 0 vulnerabilities
+2025-11-13 21:46:28 -03:00: 
+2025-11-13 21:46:28 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:46:28 -03:00: > next build
+2025-11-13 21:46:28 -03:00: 
+2025-11-13 21:46:29 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:46:29 -03:00: 
+2025-11-13 21:46:29 -03:00:    Creating an optimized production build ...
+2025-11-13 21:46:32 -03:00:  ✓ Compiled successfully in 2.9s
+2025-11-13 21:46:32 -03:00:    Running TypeScript ...
+2025-11-13 21:46:35 -03:00: 
+2025-11-13 21:46:35 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:46:35 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:46:35 -03:00: 
+2025-11-13 21:46:36 -03:00: 
+2025-11-13 21:46:36 -03:00: up to date, audited 392 packages in 822ms
+2025-11-13 21:46:36 -03:00: 
+2025-11-13 21:46:36 -03:00: 147 packages are looking for funding
+2025-11-13 21:46:36 -03:00:   run `npm fund` for details
+2025-11-13 21:46:36 -03:00: 
+2025-11-13 21:46:36 -03:00: found 0 vulnerabilities
+2025-11-13 21:46:36 -03:00: 
+2025-11-13 21:46:36 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:46:36 -03:00: > next build
+2025-11-13 21:46:36 -03:00: 
+2025-11-13 21:46:37 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:46:37 -03:00: 
+2025-11-13 21:46:37 -03:00:    Creating an optimized production build ...
+2025-11-13 21:46:40 -03:00:  ✓ Compiled successfully in 3.2s
+2025-11-13 21:46:40 -03:00:    Running TypeScript ...
+2025-11-13 21:47:54 -03:00: 
+2025-11-13 21:47:54 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:47:54 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:47:54 -03:00: 
+2025-11-13 21:47:54 -03:00: 
+2025-11-13 21:47:54 -03:00: up to date, audited 392 packages in 661ms
+2025-11-13 21:47:54 -03:00: 
+2025-11-13 21:47:54 -03:00: 147 packages are looking for funding
+2025-11-13 21:47:54 -03:00:   run `npm fund` for details
+2025-11-13 21:47:54 -03:00: 
+2025-11-13 21:47:54 -03:00: found 0 vulnerabilities
+2025-11-13 21:47:55 -03:00: 
+2025-11-13 21:47:55 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:47:55 -03:00: > next build
+2025-11-13 21:47:55 -03:00: 
+2025-11-13 21:47:55 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:47:55 -03:00: 
+2025-11-13 21:47:55 -03:00:    Creating an optimized production build ...
+2025-11-13 21:47:59 -03:00:  ✓ Compiled successfully in 3.0s
+2025-11-13 21:47:59 -03:00:    Running TypeScript ...
+2025-11-13 21:48:01 -03:00: 
+2025-11-13 21:48:01 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:48:01 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:48:01 -03:00: 
+2025-11-13 21:48:02 -03:00: 
+2025-11-13 21:48:02 -03:00: up to date, audited 392 packages in 1s
+2025-11-13 21:48:02 -03:00: 
+2025-11-13 21:48:02 -03:00: 147 packages are looking for funding
+2025-11-13 21:48:02 -03:00:   run `npm fund` for details
+2025-11-13 21:48:02 -03:00: 
+2025-11-13 21:48:02 -03:00: found 0 vulnerabilities
+2025-11-13 21:48:02 -03:00: 
+2025-11-13 21:48:02 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:48:02 -03:00: > next build
+2025-11-13 21:48:02 -03:00: 
+2025-11-13 21:48:03 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:48:03 -03:00: 
+2025-11-13 21:48:03 -03:00:    Creating an optimized production build ...
+2025-11-13 21:48:07 -03:00:  ✓ Compiled successfully in 2.9s
+2025-11-13 21:48:07 -03:00:    Running TypeScript ...
+2025-11-13 21:48:09 -03:00: 
+2025-11-13 21:48:09 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:48:09 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:48:09 -03:00: 
+2025-11-13 21:48:10 -03:00: 
+2025-11-13 21:48:10 -03:00: up to date, audited 392 packages in 869ms
+2025-11-13 21:48:10 -03:00: 
+2025-11-13 21:48:10 -03:00: 147 packages are looking for funding
+2025-11-13 21:48:10 -03:00:   run `npm fund` for details
+2025-11-13 21:48:10 -03:00: 
+2025-11-13 21:48:10 -03:00: found 0 vulnerabilities
+2025-11-13 21:48:10 -03:00: 
+2025-11-13 21:48:10 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:48:10 -03:00: > next build
+2025-11-13 21:48:10 -03:00: 
+2025-11-13 21:48:11 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:48:11 -03:00: 
+2025-11-13 21:48:11 -03:00:    Creating an optimized production build ...
+2025-11-13 21:48:15 -03:00:  ✓ Compiled successfully in 3.5s
+2025-11-13 21:48:15 -03:00:    Running TypeScript ...
+2025-11-13 21:48:17 -03:00: 
+2025-11-13 21:48:17 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:48:17 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:48:17 -03:00: 
+2025-11-13 21:48:18 -03:00: 
+2025-11-13 21:48:18 -03:00: up to date, audited 392 packages in 1s
+2025-11-13 21:48:18 -03:00: 
+2025-11-13 21:48:18 -03:00: 147 packages are looking for funding
+2025-11-13 21:48:18 -03:00:   run `npm fund` for details
+2025-11-13 21:48:18 -03:00: 
+2025-11-13 21:48:18 -03:00: found 0 vulnerabilities
+2025-11-13 21:48:18 -03:00: 
+2025-11-13 21:48:18 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:48:18 -03:00: > next build
+2025-11-13 21:48:18 -03:00: 
+2025-11-13 21:48:19 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:48:19 -03:00: 
+2025-11-13 21:48:19 -03:00:    Creating an optimized production build ...
+2025-11-13 21:48:22 -03:00:  ✓ Compiled successfully in 2.8s
+2025-11-13 21:48:22 -03:00:    Running TypeScript ...
+2025-11-13 21:48:25 -03:00: 
+2025-11-13 21:48:25 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:48:25 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:48:25 -03:00: 
+2025-11-13 21:48:26 -03:00: 
+2025-11-13 21:48:26 -03:00: up to date, audited 392 packages in 706ms
+2025-11-13 21:48:26 -03:00: 
+2025-11-13 21:48:26 -03:00: 147 packages are looking for funding
+2025-11-13 21:48:26 -03:00:   run `npm fund` for details
+2025-11-13 21:48:26 -03:00: 
+2025-11-13 21:48:26 -03:00: found 0 vulnerabilities
+2025-11-13 21:48:26 -03:00: 
+2025-11-13 21:48:26 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:48:26 -03:00: > next build
+2025-11-13 21:48:26 -03:00: 
+2025-11-13 21:48:26 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:48:26 -03:00: 
+2025-11-13 21:48:26 -03:00:    Creating an optimized production build ...
+2025-11-13 21:48:30 -03:00:  ✓ Compiled successfully in 3.0s
+2025-11-13 21:48:30 -03:00:    Running TypeScript ...
+2025-11-13 21:48:32 -03:00: 
+2025-11-13 21:48:32 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:48:32 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:48:32 -03:00: 
+2025-11-13 21:48:33 -03:00: 
+2025-11-13 21:48:33 -03:00: up to date, audited 392 packages in 779ms
+2025-11-13 21:48:33 -03:00: 
+2025-11-13 21:48:33 -03:00: 147 packages are looking for funding
+2025-11-13 21:48:33 -03:00:   run `npm fund` for details
+2025-11-13 21:48:33 -03:00: 
+2025-11-13 21:48:33 -03:00: found 0 vulnerabilities
+2025-11-13 21:48:33 -03:00: 
+2025-11-13 21:48:33 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:48:33 -03:00: > next build
+2025-11-13 21:48:33 -03:00: 
+2025-11-13 21:48:34 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:48:34 -03:00: 
+2025-11-13 21:48:34 -03:00:    Creating an optimized production build ...
+2025-11-13 21:48:37 -03:00:  ✓ Compiled successfully in 3.0s
+2025-11-13 21:48:37 -03:00:    Running TypeScript ...
+2025-11-13 21:48:40 -03:00: 
+2025-11-13 21:48:40 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:48:40 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:48:40 -03:00: 
+2025-11-13 21:48:41 -03:00: 
+2025-11-13 21:48:41 -03:00: up to date, audited 392 packages in 809ms
+2025-11-13 21:48:41 -03:00: 
+2025-11-13 21:48:41 -03:00: 147 packages are looking for funding
+2025-11-13 21:48:41 -03:00:   run `npm fund` for details
+2025-11-13 21:48:41 -03:00: 
+2025-11-13 21:48:41 -03:00: found 0 vulnerabilities
+2025-11-13 21:48:41 -03:00: 
+2025-11-13 21:48:41 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:48:41 -03:00: > next build
+2025-11-13 21:48:41 -03:00: 
+2025-11-13 21:48:42 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:48:42 -03:00: 
+2025-11-13 21:48:42 -03:00:    Creating an optimized production build ...
+2025-11-13 21:48:45 -03:00:  ✓ Compiled successfully in 3.4s
+2025-11-13 21:48:45 -03:00:    Running TypeScript ...
+2025-11-13 21:48:48 -03:00: 
+2025-11-13 21:48:48 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:48:48 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:48:48 -03:00: 
+2025-11-13 21:48:49 -03:00: 
+2025-11-13 21:48:49 -03:00: up to date, audited 392 packages in 745ms
+2025-11-13 21:48:49 -03:00: 
+2025-11-13 21:48:49 -03:00: 147 packages are looking for funding
+2025-11-13 21:48:49 -03:00:   run `npm fund` for details
+2025-11-13 21:48:49 -03:00: 
+2025-11-13 21:48:49 -03:00: found 0 vulnerabilities
+2025-11-13 21:48:49 -03:00: 
+2025-11-13 21:48:49 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:48:49 -03:00: > next build
+2025-11-13 21:48:49 -03:00: 
+2025-11-13 21:48:50 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:48:50 -03:00: 
+2025-11-13 21:48:50 -03:00:    Creating an optimized production build ...
+2025-11-13 21:48:53 -03:00:  ✓ Compiled successfully in 3.0s
+2025-11-13 21:48:53 -03:00:    Running TypeScript ...
+2025-11-13 21:48:56 -03:00: 
+2025-11-13 21:48:56 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:48:56 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:48:56 -03:00: 
+2025-11-13 21:48:57 -03:00: 
+2025-11-13 21:48:57 -03:00: up to date, audited 392 packages in 860ms
+2025-11-13 21:48:57 -03:00: 
+2025-11-13 21:48:57 -03:00: 147 packages are looking for funding
+2025-11-13 21:48:57 -03:00:   run `npm fund` for details
+2025-11-13 21:48:57 -03:00: 
+2025-11-13 21:48:57 -03:00: found 0 vulnerabilities
+2025-11-13 21:48:57 -03:00: 
+2025-11-13 21:48:57 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:48:57 -03:00: > next build
+2025-11-13 21:48:57 -03:00: 
+2025-11-13 21:48:58 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:48:58 -03:00: 
+2025-11-13 21:48:58 -03:00:    Creating an optimized production build ...
+2025-11-13 21:49:01 -03:00:  ✓ Compiled successfully in 3.2s
+2025-11-13 21:49:01 -03:00:    Running TypeScript ...
+2025-11-13 21:49:04 -03:00: 
+2025-11-13 21:49:04 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:49:04 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:49:04 -03:00: 
+2025-11-13 21:49:05 -03:00: 
+2025-11-13 21:49:05 -03:00: up to date, audited 392 packages in 756ms
+2025-11-13 21:49:05 -03:00: 
+2025-11-13 21:49:05 -03:00: 147 packages are looking for funding
+2025-11-13 21:49:05 -03:00:   run `npm fund` for details
+2025-11-13 21:49:05 -03:00: 
+2025-11-13 21:49:05 -03:00: found 0 vulnerabilities
+2025-11-13 21:49:05 -03:00: 
+2025-11-13 21:49:05 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:49:05 -03:00: > next build
+2025-11-13 21:49:05 -03:00: 
+2025-11-13 21:49:05 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:49:05 -03:00: 
+2025-11-13 21:49:05 -03:00:    Creating an optimized production build ...
+2025-11-13 21:49:09 -03:00:  ✓ Compiled successfully in 2.8s
+2025-11-13 21:49:09 -03:00:    Running TypeScript ...
+2025-11-13 21:49:31 -03:00: 
+2025-11-13 21:49:31 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:49:31 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:49:31 -03:00: 
+2025-11-13 21:49:32 -03:00: 
+2025-11-13 21:49:32 -03:00: up to date, audited 392 packages in 636ms
+2025-11-13 21:49:32 -03:00: 
+2025-11-13 21:49:32 -03:00: 147 packages are looking for funding
+2025-11-13 21:49:32 -03:00:   run `npm fund` for details
+2025-11-13 21:49:32 -03:00: 
+2025-11-13 21:49:32 -03:00: found 0 vulnerabilities
+2025-11-13 21:49:32 -03:00: 
+2025-11-13 21:49:32 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:49:32 -03:00: > next build
+2025-11-13 21:49:32 -03:00: 
+2025-11-13 21:49:33 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:49:33 -03:00: 
+2025-11-13 21:49:33 -03:00:    Creating an optimized production build ...
+2025-11-13 21:49:36 -03:00:  ✓ Compiled successfully in 2.7s
+2025-11-13 21:49:36 -03:00:    Running TypeScript ...
+2025-11-13 21:49:39 -03:00: 
+2025-11-13 21:49:39 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:49:39 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:49:39 -03:00: 
+2025-11-13 21:49:40 -03:00: 
+2025-11-13 21:49:40 -03:00: up to date, audited 392 packages in 1s
+2025-11-13 21:49:40 -03:00: 
+2025-11-13 21:49:40 -03:00: 147 packages are looking for funding
+2025-11-13 21:49:40 -03:00:   run `npm fund` for details
+2025-11-13 21:49:40 -03:00: 
+2025-11-13 21:49:40 -03:00: found 0 vulnerabilities
+2025-11-13 21:49:40 -03:00: 
+2025-11-13 21:49:40 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:49:40 -03:00: > next build
+2025-11-13 21:49:40 -03:00: 
+2025-11-13 21:49:41 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:49:41 -03:00: 
+2025-11-13 21:49:41 -03:00:    Creating an optimized production build ...
+2025-11-13 21:49:45 -03:00:  ✓ Compiled successfully in 3.3s
+2025-11-13 21:49:45 -03:00:    Running TypeScript ...
+2025-11-13 21:49:48 -03:00: 
+2025-11-13 21:49:48 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:49:48 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:49:48 -03:00: 
+2025-11-13 21:49:49 -03:00: 
+2025-11-13 21:49:49 -03:00: up to date, audited 392 packages in 905ms
+2025-11-13 21:49:49 -03:00: 
+2025-11-13 21:49:49 -03:00: 147 packages are looking for funding
+2025-11-13 21:49:49 -03:00:   run `npm fund` for details
+2025-11-13 21:49:49 -03:00: 
+2025-11-13 21:49:49 -03:00: found 0 vulnerabilities
+2025-11-13 21:49:49 -03:00: 
+2025-11-13 21:49:49 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:49:49 -03:00: > next build
+2025-11-13 21:49:49 -03:00: 
+2025-11-13 21:49:50 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:49:50 -03:00: 
+2025-11-13 21:49:50 -03:00:    Creating an optimized production build ...
+2025-11-13 21:49:53 -03:00:  ✓ Compiled successfully in 3.0s
+2025-11-13 21:49:53 -03:00:    Running TypeScript ...
+2025-11-13 21:49:56 -03:00: 
+2025-11-13 21:49:56 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:49:56 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:49:56 -03:00: 
+2025-11-13 21:49:57 -03:00: 
+2025-11-13 21:49:57 -03:00: up to date, audited 392 packages in 733ms
+2025-11-13 21:49:57 -03:00: 
+2025-11-13 21:49:57 -03:00: 147 packages are looking for funding
+2025-11-13 21:49:57 -03:00:   run `npm fund` for details
+2025-11-13 21:49:57 -03:00: 
+2025-11-13 21:49:57 -03:00: found 0 vulnerabilities
+2025-11-13 21:49:57 -03:00: 
+2025-11-13 21:49:57 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:49:57 -03:00: > next build
+2025-11-13 21:49:57 -03:00: 
+2025-11-13 21:49:57 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:49:57 -03:00: 
+2025-11-13 21:49:58 -03:00:    Creating an optimized production build ...
+2025-11-13 21:50:01 -03:00:  ✓ Compiled successfully in 3.2s
+2025-11-13 21:50:01 -03:00:    Running TypeScript ...
+2025-11-13 21:50:04 -03:00: 
+2025-11-13 21:50:04 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:50:04 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:50:04 -03:00: 
+2025-11-13 21:50:05 -03:00: 
+2025-11-13 21:50:05 -03:00: up to date, audited 392 packages in 871ms
+2025-11-13 21:50:05 -03:00: 
+2025-11-13 21:50:05 -03:00: 147 packages are looking for funding
+2025-11-13 21:50:05 -03:00:   run `npm fund` for details
+2025-11-13 21:50:05 -03:00: 
+2025-11-13 21:50:05 -03:00: found 0 vulnerabilities
+2025-11-13 21:50:05 -03:00: 
+2025-11-13 21:50:05 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:50:05 -03:00: > next build
+2025-11-13 21:50:05 -03:00: 
+2025-11-13 21:50:06 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:50:06 -03:00: 
+2025-11-13 21:50:06 -03:00:    Creating an optimized production build ...
+2025-11-13 21:50:09 -03:00:  ✓ Compiled successfully in 3.1s
+2025-11-13 21:50:09 -03:00:    Running TypeScript ...
+2025-11-13 21:50:10 -03:00: 
+2025-11-13 21:50:10 -03:00: > atend-website@0.1.0 start:pm2
+2025-11-13 21:50:10 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:50:10 -03:00: 
+2025-11-13 21:50:18 -03:00: 
+2025-11-13 21:50:18 -03:00: added 391 packages, and audited 392 packages in 8s
+2025-11-13 21:50:18 -03:00: 
+2025-11-13 21:50:18 -03:00: 147 packages are looking for funding
+2025-11-13 21:50:18 -03:00:   run `npm fund` for details
+2025-11-13 21:50:18 -03:00: 
+2025-11-13 21:50:18 -03:00: found 0 vulnerabilities
+2025-11-13 21:50:19 -03:00: 
+2025-11-13 21:50:19 -03:00: > atend-website@0.1.0 build
+2025-11-13 21:50:19 -03:00: > next build
+2025-11-13 21:50:19 -03:00: 
+2025-11-13 21:50:19 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:50:19 -03:00: 
+2025-11-13 21:50:19 -03:00:    Creating an optimized production build ...
+2025-11-13 21:50:23 -03:00:  ✓ Compiled successfully in 3.6s
+2025-11-13 21:50:23 -03:00:    Running TypeScript ...
+2025-11-13 21:50:26 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 21:50:26 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 21:50:27 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 21:50:27 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 21:50:27 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 21:50:27 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 712.5ms
+2025-11-13 21:50:27 -03:00:    Finalizing page optimization ...
+2025-11-13 21:50:27 -03:00: 
+2025-11-13 21:50:27 -03:00: Route (app)
+2025-11-13 21:50:27 -03:00: ┌ ○ /
+2025-11-13 21:50:27 -03:00: ├ ○ /_not-found
+2025-11-13 21:50:27 -03:00: ├ ○ /home
+2025-11-13 21:50:27 -03:00: └ ○ /icon.png
+2025-11-13 21:50:27 -03:00: 
+2025-11-13 21:50:27 -03:00: 
+2025-11-13 21:50:27 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 21:50:27 -03:00: 
+2025-11-13 21:50:28 -03:00: 
+2025-11-13 21:50:28 -03:00: > atend-website@0.1.0 start
+2025-11-13 21:50:28 -03:00: > next start
+2025-11-13 21:50:28 -03:00: 
+2025-11-13 21:50:28 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 21:50:28 -03:00:    - Local:         http://localhost:3001
+2025-11-13 21:50:28 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 21:50:28 -03:00: 
+2025-11-13 21:50:28 -03:00:  ✓ Starting...
+2025-11-13 21:50:28 -03:00:  ✓ Ready in 393ms
+2025-11-13 21:52:51 -03:00: 
+2025-11-13 21:52:51 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 21:52:51 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:52:51 -03:00: 
+2025-11-13 21:52:52 -03:00: 
+2025-11-13 21:52:52 -03:00: up to date, audited 392 packages in 694ms
+2025-11-13 21:52:52 -03:00: 
+2025-11-13 21:52:52 -03:00: 147 packages are looking for funding
+2025-11-13 21:52:52 -03:00:   run `npm fund` for details
+2025-11-13 21:52:52 -03:00: 
+2025-11-13 21:52:52 -03:00: found 0 vulnerabilities
+2025-11-13 21:52:52 -03:00: 
+2025-11-13 21:52:52 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 21:52:52 -03:00: > next build
+2025-11-13 21:52:52 -03:00: 
+2025-11-13 21:52:53 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:52:53 -03:00: 
+2025-11-13 21:52:53 -03:00:    Creating an optimized production build ...
+2025-11-13 21:53:00 -03:00:  ✓ Compiled successfully in 6.2s
+2025-11-13 21:53:00 -03:00:    Running TypeScript ...
+2025-11-13 21:53:06 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 21:53:07 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 21:53:08 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 21:53:08 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 21:53:08 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 21:53:08 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 623.4ms
+2025-11-13 21:53:08 -03:00:    Finalizing page optimization ...
+2025-11-13 21:53:08 -03:00: 
+2025-11-13 21:53:08 -03:00: Route (app)
+2025-11-13 21:53:08 -03:00: ┌ ○ /
+2025-11-13 21:53:08 -03:00: ├ ○ /_not-found
+2025-11-13 21:53:08 -03:00: ├ ○ /home
+2025-11-13 21:53:08 -03:00: └ ○ /icon.png
+2025-11-13 21:53:08 -03:00: 
+2025-11-13 21:53:08 -03:00: 
+2025-11-13 21:53:08 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 21:53:08 -03:00: 
+2025-11-13 21:53:08 -03:00: 
+2025-11-13 21:53:08 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 21:53:08 -03:00: > next start
+2025-11-13 21:53:08 -03:00: 
+2025-11-13 21:53:08 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 21:53:08 -03:00:    - Local:         http://localhost:3001
+2025-11-13 21:53:08 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 21:53:08 -03:00: 
+2025-11-13 21:53:08 -03:00:  ✓ Starting...
+2025-11-13 21:53:09 -03:00:  ✓ Ready in 354ms
+2025-11-13 21:55:32 -03:00: 
+2025-11-13 21:55:32 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 21:55:32 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:55:32 -03:00: 
+2025-11-13 21:55:32 -03:00: 
+2025-11-13 21:55:32 -03:00: up to date, audited 392 packages in 615ms
+2025-11-13 21:55:32 -03:00: 
+2025-11-13 21:55:32 -03:00: 147 packages are looking for funding
+2025-11-13 21:55:32 -03:00:   run `npm fund` for details
+2025-11-13 21:55:32 -03:00: 
+2025-11-13 21:55:32 -03:00: found 0 vulnerabilities
+2025-11-13 21:55:32 -03:00: 
+2025-11-13 21:55:32 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 21:55:32 -03:00: > next build
+2025-11-13 21:55:32 -03:00: 
+2025-11-13 21:55:33 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:55:33 -03:00: 
+2025-11-13 21:55:33 -03:00:    Creating an optimized production build ...
+2025-11-13 21:55:36 -03:00:  ✓ Compiled successfully in 2.5s
+2025-11-13 21:55:36 -03:00:    Running TypeScript ...
+2025-11-13 21:55:38 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 21:55:39 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 21:55:39 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 21:55:39 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 21:55:39 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 21:55:39 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 512.1ms
+2025-11-13 21:55:39 -03:00:    Finalizing page optimization ...
+2025-11-13 21:55:39 -03:00: 
+2025-11-13 21:55:39 -03:00: Route (app)
+2025-11-13 21:55:39 -03:00: ┌ ○ /
+2025-11-13 21:55:39 -03:00: ├ ○ /_not-found
+2025-11-13 21:55:39 -03:00: ├ ○ /home
+2025-11-13 21:55:39 -03:00: └ ○ /icon.png
+2025-11-13 21:55:39 -03:00: 
+2025-11-13 21:55:39 -03:00: 
+2025-11-13 21:55:39 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 21:55:39 -03:00: 
+2025-11-13 21:55:40 -03:00: 
+2025-11-13 21:55:40 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 21:55:40 -03:00: > next start
+2025-11-13 21:55:40 -03:00: 
+2025-11-13 21:55:40 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 21:55:40 -03:00:    - Local:         http://localhost:3001
+2025-11-13 21:55:40 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 21:55:40 -03:00: 
+2025-11-13 21:55:40 -03:00:  ✓ Starting...
+2025-11-13 21:55:40 -03:00:  ✓ Ready in 334ms
+2025-11-13 21:58:04 -03:00: 
+2025-11-13 21:58:04 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 21:58:04 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:58:04 -03:00: 
+2025-11-13 21:58:04 -03:00: 
+2025-11-13 21:58:04 -03:00: up to date, audited 392 packages in 867ms
+2025-11-13 21:58:04 -03:00: 
+2025-11-13 21:58:04 -03:00: 147 packages are looking for funding
+2025-11-13 21:58:04 -03:00:   run `npm fund` for details
+2025-11-13 21:58:04 -03:00: 
+2025-11-13 21:58:04 -03:00: found 0 vulnerabilities
+2025-11-13 21:58:05 -03:00: 
+2025-11-13 21:58:05 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 21:58:05 -03:00: > next build
+2025-11-13 21:58:05 -03:00: 
+2025-11-13 21:58:06 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:58:06 -03:00: 
+2025-11-13 21:58:06 -03:00:    Creating an optimized production build ...
+2025-11-13 21:58:10 -03:00:  ✓ Compiled successfully in 3.4s
+2025-11-13 21:58:10 -03:00:    Running TypeScript ...
+2025-11-13 21:58:12 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 21:58:13 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 21:58:13 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 21:58:13 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 21:58:13 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 21:58:13 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 547.9ms
+2025-11-13 21:58:13 -03:00:    Finalizing page optimization ...
+2025-11-13 21:58:13 -03:00: 
+2025-11-13 21:58:13 -03:00: Route (app)
+2025-11-13 21:58:13 -03:00: ┌ ○ /
+2025-11-13 21:58:13 -03:00: ├ ○ /_not-found
+2025-11-13 21:58:13 -03:00: ├ ○ /home
+2025-11-13 21:58:13 -03:00: └ ○ /icon.png
+2025-11-13 21:58:13 -03:00: 
+2025-11-13 21:58:13 -03:00: 
+2025-11-13 21:58:13 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 21:58:13 -03:00: 
+2025-11-13 21:58:14 -03:00: 
+2025-11-13 21:58:14 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 21:58:14 -03:00: > next start
+2025-11-13 21:58:14 -03:00: 
+2025-11-13 21:58:14 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 21:58:14 -03:00:    - Local:         http://localhost:3001
+2025-11-13 21:58:14 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 21:58:14 -03:00: 
+2025-11-13 21:58:14 -03:00:  ✓ Starting...
+2025-11-13 21:58:14 -03:00:  ✓ Ready in 295ms
+2025-11-13 21:59:35 -03:00: 
+2025-11-13 21:59:35 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 21:59:35 -03:00: > npm i && npm run build && npm start
+2025-11-13 21:59:35 -03:00: 
+2025-11-13 21:59:36 -03:00: 
+2025-11-13 21:59:36 -03:00: up to date, audited 392 packages in 771ms
+2025-11-13 21:59:36 -03:00: 
+2025-11-13 21:59:36 -03:00: 147 packages are looking for funding
+2025-11-13 21:59:36 -03:00:   run `npm fund` for details
+2025-11-13 21:59:36 -03:00: 
+2025-11-13 21:59:36 -03:00: found 0 vulnerabilities
+2025-11-13 21:59:36 -03:00: 
+2025-11-13 21:59:36 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 21:59:36 -03:00: > next build
+2025-11-13 21:59:36 -03:00: 
+2025-11-13 21:59:37 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 21:59:37 -03:00: 
+2025-11-13 21:59:37 -03:00:    Creating an optimized production build ...
+2025-11-13 21:59:41 -03:00:  ✓ Compiled successfully in 4.4s
+2025-11-13 21:59:41 -03:00:    Running TypeScript ...
+2025-11-13 21:59:44 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 21:59:44 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 21:59:45 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 21:59:45 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 21:59:45 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 21:59:45 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 549.3ms
+2025-11-13 21:59:45 -03:00:    Finalizing page optimization ...
+2025-11-13 21:59:45 -03:00: 
+2025-11-13 21:59:45 -03:00: Route (app)
+2025-11-13 21:59:45 -03:00: ┌ ○ /
+2025-11-13 21:59:45 -03:00: ├ ○ /_not-found
+2025-11-13 21:59:45 -03:00: ├ ○ /home
+2025-11-13 21:59:45 -03:00: └ ○ /icon.png
+2025-11-13 21:59:45 -03:00: 
+2025-11-13 21:59:45 -03:00: 
+2025-11-13 21:59:45 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 21:59:45 -03:00: 
+2025-11-13 21:59:46 -03:00: 
+2025-11-13 21:59:46 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 21:59:46 -03:00: > next start
+2025-11-13 21:59:46 -03:00: 
+2025-11-13 21:59:46 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 21:59:46 -03:00:    - Local:         http://localhost:3001
+2025-11-13 21:59:46 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 21:59:46 -03:00: 
+2025-11-13 21:59:46 -03:00:  ✓ Starting...
+2025-11-13 21:59:46 -03:00:  ✓ Ready in 270ms
+2025-11-13 22:00:54 -03:00: 
+2025-11-13 22:00:54 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:00:54 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:00:54 -03:00: 
+2025-11-13 22:00:55 -03:00: 
+2025-11-13 22:00:55 -03:00: up to date, audited 392 packages in 832ms
+2025-11-13 22:00:55 -03:00: 
+2025-11-13 22:00:55 -03:00: 147 packages are looking for funding
+2025-11-13 22:00:55 -03:00:   run `npm fund` for details
+2025-11-13 22:00:55 -03:00: 
+2025-11-13 22:00:55 -03:00: found 0 vulnerabilities
+2025-11-13 22:00:55 -03:00: 
+2025-11-13 22:00:55 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:00:55 -03:00: > next build
+2025-11-13 22:00:55 -03:00: 
+2025-11-13 22:00:56 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:00:56 -03:00: 
+2025-11-13 22:00:56 -03:00:    Creating an optimized production build ...
+2025-11-13 22:01:01 -03:00:  ✓ Compiled successfully in 4.1s
+2025-11-13 22:01:01 -03:00:    Running TypeScript ...
+2025-11-13 22:01:03 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:01:03 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:01:04 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:01:04 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:01:04 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:01:04 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 721.4ms
+2025-11-13 22:01:04 -03:00:    Finalizing page optimization ...
+2025-11-13 22:01:04 -03:00: 
+2025-11-13 22:01:04 -03:00: Route (app)
+2025-11-13 22:01:04 -03:00: ┌ ○ /
+2025-11-13 22:01:04 -03:00: ├ ○ /_not-found
+2025-11-13 22:01:04 -03:00: ├ ○ /home
+2025-11-13 22:01:04 -03:00: └ ○ /icon.png
+2025-11-13 22:01:04 -03:00: 
+2025-11-13 22:01:04 -03:00: 
+2025-11-13 22:01:04 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:01:04 -03:00: 
+2025-11-13 22:01:05 -03:00: 
+2025-11-13 22:01:05 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:01:05 -03:00: > next start
+2025-11-13 22:01:05 -03:00: 
+2025-11-13 22:01:05 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:01:05 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:01:05 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:01:05 -03:00: 
+2025-11-13 22:01:05 -03:00:  ✓ Starting...
+2025-11-13 22:01:05 -03:00:  ✓ Ready in 273ms
+2025-11-13 22:01:42 -03:00: 
+2025-11-13 22:01:42 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:01:42 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:01:42 -03:00: 
+2025-11-13 22:01:44 -03:00: 
+2025-11-13 22:01:44 -03:00: up to date, audited 392 packages in 1s
+2025-11-13 22:01:44 -03:00: 
+2025-11-13 22:01:44 -03:00: 147 packages are looking for funding
+2025-11-13 22:01:44 -03:00:   run `npm fund` for details
+2025-11-13 22:01:44 -03:00: 
+2025-11-13 22:01:44 -03:00: found 0 vulnerabilities
+2025-11-13 22:01:44 -03:00: 
+2025-11-13 22:01:44 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:01:44 -03:00: > next build
+2025-11-13 22:01:44 -03:00: 
+2025-11-13 22:01:46 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:01:46 -03:00: 
+2025-11-13 22:01:46 -03:00:    Creating an optimized production build ...
+2025-11-13 22:01:50 -03:00:  ✓ Compiled successfully in 3.3s
+2025-11-13 22:01:50 -03:00:    Running TypeScript ...
+2025-11-13 22:01:53 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:01:53 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:01:54 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:01:54 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:01:54 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:01:54 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 651.4ms
+2025-11-13 22:01:54 -03:00:    Finalizing page optimization ...
+2025-11-13 22:01:54 -03:00: 
+2025-11-13 22:01:54 -03:00: Route (app)
+2025-11-13 22:01:54 -03:00: ┌ ○ /
+2025-11-13 22:01:54 -03:00: ├ ○ /_not-found
+2025-11-13 22:01:54 -03:00: ├ ○ /home
+2025-11-13 22:01:54 -03:00: └ ○ /icon.png
+2025-11-13 22:01:54 -03:00: 
+2025-11-13 22:01:54 -03:00: 
+2025-11-13 22:01:54 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:01:54 -03:00: 
+2025-11-13 22:01:54 -03:00: 
+2025-11-13 22:01:54 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:01:54 -03:00: > next start
+2025-11-13 22:01:54 -03:00: 
+2025-11-13 22:01:55 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:01:55 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:01:55 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:01:55 -03:00: 
+2025-11-13 22:01:55 -03:00:  ✓ Starting...
+2025-11-13 22:01:55 -03:00:  ✓ Ready in 303ms
+2025-11-13 22:02:34 -03:00: 
+2025-11-13 22:02:34 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:02:34 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:02:34 -03:00: 
+2025-11-13 22:02:35 -03:00: 
+2025-11-13 22:02:35 -03:00: up to date, audited 392 packages in 726ms
+2025-11-13 22:02:35 -03:00: 
+2025-11-13 22:02:35 -03:00: 147 packages are looking for funding
+2025-11-13 22:02:35 -03:00:   run `npm fund` for details
+2025-11-13 22:02:35 -03:00: 
+2025-11-13 22:02:35 -03:00: found 0 vulnerabilities
+2025-11-13 22:02:35 -03:00: 
+2025-11-13 22:02:35 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:02:35 -03:00: > next build
+2025-11-13 22:02:35 -03:00: 
+2025-11-13 22:02:35 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:02:35 -03:00: 
+2025-11-13 22:02:36 -03:00:    Creating an optimized production build ...
+2025-11-13 22:02:40 -03:00:  ✓ Compiled successfully in 4.1s
+2025-11-13 22:02:40 -03:00:    Running TypeScript ...
+2025-11-13 22:02:43 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:02:43 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:02:44 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:02:44 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:02:44 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:02:44 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 556.2ms
+2025-11-13 22:02:44 -03:00:    Finalizing page optimization ...
+2025-11-13 22:02:44 -03:00: 
+2025-11-13 22:02:44 -03:00: Route (app)
+2025-11-13 22:02:44 -03:00: ┌ ○ /
+2025-11-13 22:02:44 -03:00: ├ ○ /_not-found
+2025-11-13 22:02:44 -03:00: ├ ○ /home
+2025-11-13 22:02:44 -03:00: └ ○ /icon.png
+2025-11-13 22:02:44 -03:00: 
+2025-11-13 22:02:44 -03:00: 
+2025-11-13 22:02:44 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:02:44 -03:00: 
+2025-11-13 22:02:44 -03:00: 
+2025-11-13 22:02:44 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:02:44 -03:00: > next start
+2025-11-13 22:02:44 -03:00: 
+2025-11-13 22:02:45 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:02:45 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:02:45 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:02:45 -03:00: 
+2025-11-13 22:02:45 -03:00:  ✓ Starting...
+2025-11-13 22:02:45 -03:00:  ✓ Ready in 417ms
+2025-11-13 22:04:04 -03:00: 
+2025-11-13 22:04:04 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:04:04 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:04:04 -03:00: 
+2025-11-13 22:04:05 -03:00: 
+2025-11-13 22:04:05 -03:00: up to date, audited 392 packages in 1s
+2025-11-13 22:04:05 -03:00: 
+2025-11-13 22:04:05 -03:00: 147 packages are looking for funding
+2025-11-13 22:04:05 -03:00:   run `npm fund` for details
+2025-11-13 22:04:05 -03:00: 
+2025-11-13 22:04:05 -03:00: found 0 vulnerabilities
+2025-11-13 22:04:05 -03:00: 
+2025-11-13 22:04:05 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:04:05 -03:00: > next build
+2025-11-13 22:04:05 -03:00: 
+2025-11-13 22:04:07 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:04:07 -03:00: 
+2025-11-13 22:04:07 -03:00:    Creating an optimized production build ...
+2025-11-13 22:04:13 -03:00:  ✓ Compiled successfully in 4.7s
+2025-11-13 22:04:13 -03:00:    Running TypeScript ...
+2025-11-13 22:04:17 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:04:17 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:04:18 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:04:18 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:04:18 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:04:18 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 743.0ms
+2025-11-13 22:04:18 -03:00:    Finalizing page optimization ...
+2025-11-13 22:04:18 -03:00: 
+2025-11-13 22:04:18 -03:00: Route (app)
+2025-11-13 22:04:18 -03:00: ┌ ○ /
+2025-11-13 22:04:18 -03:00: ├ ○ /_not-found
+2025-11-13 22:04:18 -03:00: ├ ○ /home
+2025-11-13 22:04:18 -03:00: └ ○ /icon.png
+2025-11-13 22:04:18 -03:00: 
+2025-11-13 22:04:18 -03:00: 
+2025-11-13 22:04:18 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:04:18 -03:00: 
+2025-11-13 22:04:19 -03:00: 
+2025-11-13 22:04:19 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:04:19 -03:00: > next start
+2025-11-13 22:04:19 -03:00: 
+2025-11-13 22:04:19 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:04:19 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:04:19 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:04:19 -03:00: 
+2025-11-13 22:04:19 -03:00:  ✓ Starting...
+2025-11-13 22:04:19 -03:00:  ✓ Ready in 428ms
+2025-11-13 22:04:51 -03:00: 
+2025-11-13 22:04:51 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:04:51 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:04:51 -03:00: 
+2025-11-13 22:04:51 -03:00: 
+2025-11-13 22:04:51 -03:00: up to date, audited 392 packages in 657ms
+2025-11-13 22:04:51 -03:00: 
+2025-11-13 22:04:51 -03:00: 147 packages are looking for funding
+2025-11-13 22:04:51 -03:00:   run `npm fund` for details
+2025-11-13 22:04:51 -03:00: 
+2025-11-13 22:04:51 -03:00: found 0 vulnerabilities
+2025-11-13 22:04:51 -03:00: 
+2025-11-13 22:04:51 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:04:51 -03:00: > next build
+2025-11-13 22:04:51 -03:00: 
+2025-11-13 22:04:52 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:04:52 -03:00: 
+2025-11-13 22:04:52 -03:00:    Creating an optimized production build ...
+2025-11-13 22:04:55 -03:00:  ✓ Compiled successfully in 2.2s
+2025-11-13 22:04:55 -03:00:    Running TypeScript ...
+2025-11-13 22:04:56 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:04:57 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:04:58 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:04:58 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:04:58 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:04:58 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 602.4ms
+2025-11-13 22:04:58 -03:00:    Finalizing page optimization ...
+2025-11-13 22:04:58 -03:00: 
+2025-11-13 22:04:58 -03:00: Route (app)
+2025-11-13 22:04:58 -03:00: ┌ ○ /
+2025-11-13 22:04:58 -03:00: ├ ○ /_not-found
+2025-11-13 22:04:58 -03:00: ├ ○ /home
+2025-11-13 22:04:58 -03:00: └ ○ /icon.png
+2025-11-13 22:04:58 -03:00: 
+2025-11-13 22:04:58 -03:00: 
+2025-11-13 22:04:58 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:04:58 -03:00: 
+2025-11-13 22:04:58 -03:00: 
+2025-11-13 22:04:58 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:04:58 -03:00: > next start
+2025-11-13 22:04:58 -03:00: 
+2025-11-13 22:04:59 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:04:59 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:04:59 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:04:59 -03:00: 
+2025-11-13 22:04:59 -03:00:  ✓ Starting...
+2025-11-13 22:04:59 -03:00:  ✓ Ready in 300ms
+2025-11-13 22:06:28 -03:00: 
+2025-11-13 22:06:28 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:06:28 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:06:28 -03:00: 
+2025-11-13 22:06:28 -03:00: 
+2025-11-13 22:06:28 -03:00: up to date, audited 392 packages in 732ms
+2025-11-13 22:06:28 -03:00: 
+2025-11-13 22:06:28 -03:00: 147 packages are looking for funding
+2025-11-13 22:06:28 -03:00:   run `npm fund` for details
+2025-11-13 22:06:28 -03:00: 
+2025-11-13 22:06:28 -03:00: found 0 vulnerabilities
+2025-11-13 22:06:29 -03:00: 
+2025-11-13 22:06:29 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:06:29 -03:00: > next build
+2025-11-13 22:06:29 -03:00: 
+2025-11-13 22:06:30 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:06:30 -03:00: 
+2025-11-13 22:06:30 -03:00:    Creating an optimized production build ...
+2025-11-13 22:06:36 -03:00:  ✓ Compiled successfully in 4.7s
+2025-11-13 22:06:36 -03:00:    Running TypeScript ...
+2025-11-13 22:06:39 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:06:39 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:06:40 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:06:40 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:06:40 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:06:40 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 709.1ms
+2025-11-13 22:06:40 -03:00:    Finalizing page optimization ...
+2025-11-13 22:06:40 -03:00: 
+2025-11-13 22:06:40 -03:00: Route (app)
+2025-11-13 22:06:40 -03:00: ┌ ○ /
+2025-11-13 22:06:40 -03:00: ├ ○ /_not-found
+2025-11-13 22:06:40 -03:00: ├ ○ /home
+2025-11-13 22:06:40 -03:00: └ ○ /icon.png
+2025-11-13 22:06:40 -03:00: 
+2025-11-13 22:06:40 -03:00: 
+2025-11-13 22:06:40 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:06:40 -03:00: 
+2025-11-13 22:06:41 -03:00: 
+2025-11-13 22:06:41 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:06:41 -03:00: > next start
+2025-11-13 22:06:41 -03:00: 
+2025-11-13 22:06:41 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:06:41 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:06:41 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:06:41 -03:00: 
+2025-11-13 22:06:41 -03:00:  ✓ Starting...
+2025-11-13 22:06:42 -03:00:  ✓ Ready in 513ms
+2025-11-13 22:08:40 -03:00: 
+2025-11-13 22:08:40 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:08:40 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:08:40 -03:00: 
+2025-11-13 22:08:41 -03:00: 
+2025-11-13 22:08:41 -03:00: up to date, audited 392 packages in 699ms
+2025-11-13 22:08:41 -03:00: 
+2025-11-13 22:08:41 -03:00: 147 packages are looking for funding
+2025-11-13 22:08:41 -03:00:   run `npm fund` for details
+2025-11-13 22:08:41 -03:00: 
+2025-11-13 22:08:41 -03:00: found 0 vulnerabilities
+2025-11-13 22:08:41 -03:00: 
+2025-11-13 22:08:41 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:08:41 -03:00: > next build
+2025-11-13 22:08:41 -03:00: 
+2025-11-13 22:08:42 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:08:42 -03:00: 
+2025-11-13 22:08:42 -03:00:    Creating an optimized production build ...
+2025-11-13 22:08:46 -03:00:  ✓ Compiled successfully in 3.6s
+2025-11-13 22:08:46 -03:00:    Running TypeScript ...
+2025-11-13 22:08:49 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:08:50 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:08:51 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:08:51 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:08:51 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:08:51 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 1232.5ms
+2025-11-13 22:08:51 -03:00:    Finalizing page optimization ...
+2025-11-13 22:08:51 -03:00: 
+2025-11-13 22:08:51 -03:00: Route (app)
+2025-11-13 22:08:51 -03:00: ┌ ○ /
+2025-11-13 22:08:51 -03:00: ├ ○ /_not-found
+2025-11-13 22:08:51 -03:00: ├ ○ /home
+2025-11-13 22:08:51 -03:00: └ ○ /icon.png
+2025-11-13 22:08:51 -03:00: 
+2025-11-13 22:08:51 -03:00: 
+2025-11-13 22:08:51 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:08:51 -03:00: 
+2025-11-13 22:08:52 -03:00: 
+2025-11-13 22:08:52 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:08:52 -03:00: > next start
+2025-11-13 22:08:52 -03:00: 
+2025-11-13 22:08:52 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:08:52 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:08:52 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:08:52 -03:00: 
+2025-11-13 22:08:52 -03:00:  ✓ Starting...
+2025-11-13 22:08:53 -03:00:  ✓ Ready in 1037ms
+2025-11-13 22:28:36 -03:00: 
+2025-11-13 22:28:36 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:28:36 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:28:36 -03:00: 
+2025-11-13 22:28:37 -03:00: 
+2025-11-13 22:28:37 -03:00: up to date, audited 392 packages in 815ms
+2025-11-13 22:28:37 -03:00: 
+2025-11-13 22:28:37 -03:00: 147 packages are looking for funding
+2025-11-13 22:28:37 -03:00:   run `npm fund` for details
+2025-11-13 22:28:37 -03:00: 
+2025-11-13 22:28:37 -03:00: found 0 vulnerabilities
+2025-11-13 22:28:37 -03:00: 
+2025-11-13 22:28:37 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:28:37 -03:00: > next build
+2025-11-13 22:28:37 -03:00: 
+2025-11-13 22:28:39 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:28:39 -03:00: 
+2025-11-13 22:28:39 -03:00:    Creating an optimized production build ...
+2025-11-13 22:28:46 -03:00:  ✓ Compiled successfully in 6.0s
+2025-11-13 22:28:46 -03:00:    Running TypeScript ...
+2025-11-13 22:28:50 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:28:50 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:28:51 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:28:51 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:28:51 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:28:51 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 825.4ms
+2025-11-13 22:28:51 -03:00:    Finalizing page optimization ...
+2025-11-13 22:28:51 -03:00: 
+2025-11-13 22:28:51 -03:00: Route (app)
+2025-11-13 22:28:51 -03:00: ┌ ○ /
+2025-11-13 22:28:51 -03:00: ├ ○ /_not-found
+2025-11-13 22:28:51 -03:00: ├ ○ /home
+2025-11-13 22:28:51 -03:00: └ ○ /icon.png
+2025-11-13 22:28:51 -03:00: 
+2025-11-13 22:28:51 -03:00: 
+2025-11-13 22:28:51 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:28:51 -03:00: 
+2025-11-13 22:28:52 -03:00: 
+2025-11-13 22:28:52 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:28:52 -03:00: > next start
+2025-11-13 22:28:52 -03:00: 
+2025-11-13 22:28:52 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:28:52 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:28:52 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:28:52 -03:00: 
+2025-11-13 22:28:52 -03:00:  ✓ Starting...
+2025-11-13 22:28:53 -03:00:  ✓ Ready in 477ms
+2025-11-13 22:29:54 -03:00: 
+2025-11-13 22:29:54 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:29:54 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:29:54 -03:00: 
+2025-11-13 22:29:55 -03:00: 
+2025-11-13 22:29:55 -03:00: up to date, audited 392 packages in 970ms
+2025-11-13 22:29:55 -03:00: 
+2025-11-13 22:29:55 -03:00: 147 packages are looking for funding
+2025-11-13 22:29:55 -03:00:   run `npm fund` for details
+2025-11-13 22:29:55 -03:00: 
+2025-11-13 22:29:55 -03:00: found 0 vulnerabilities
+2025-11-13 22:29:55 -03:00: 
+2025-11-13 22:29:55 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:29:55 -03:00: > next build
+2025-11-13 22:29:55 -03:00: 
+2025-11-13 22:29:57 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:29:57 -03:00: 
+2025-11-13 22:29:57 -03:00:    Creating an optimized production build ...
+2025-11-13 22:30:03 -03:00:  ✓ Compiled successfully in 5.4s
+2025-11-13 22:30:03 -03:00:    Running TypeScript ...
+2025-11-13 22:30:08 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:30:09 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:30:10 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:30:10 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:30:10 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:30:10 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 1327.1ms
+2025-11-13 22:30:10 -03:00:    Finalizing page optimization ...
+2025-11-13 22:30:10 -03:00: 
+2025-11-13 22:30:10 -03:00: Route (app)
+2025-11-13 22:30:10 -03:00: ┌ ○ /
+2025-11-13 22:30:10 -03:00: ├ ○ /_not-found
+2025-11-13 22:30:10 -03:00: ├ ○ /home
+2025-11-13 22:30:10 -03:00: └ ○ /icon.png
+2025-11-13 22:30:10 -03:00: 
+2025-11-13 22:30:10 -03:00: 
+2025-11-13 22:30:10 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:30:10 -03:00: 
+2025-11-13 22:30:11 -03:00: 
+2025-11-13 22:30:11 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:30:11 -03:00: > next start
+2025-11-13 22:30:11 -03:00: 
+2025-11-13 22:30:11 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:30:11 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:30:11 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:30:11 -03:00: 
+2025-11-13 22:30:11 -03:00:  ✓ Starting...
+2025-11-13 22:30:11 -03:00:  ✓ Ready in 380ms
+2025-11-13 22:31:26 -03:00: 
+2025-11-13 22:31:26 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:31:26 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:31:26 -03:00: 
+2025-11-13 22:31:27 -03:00: 
+2025-11-13 22:31:27 -03:00: up to date, audited 392 packages in 639ms
+2025-11-13 22:31:27 -03:00: 
+2025-11-13 22:31:27 -03:00: 147 packages are looking for funding
+2025-11-13 22:31:27 -03:00:   run `npm fund` for details
+2025-11-13 22:31:27 -03:00: 
+2025-11-13 22:31:27 -03:00: found 0 vulnerabilities
+2025-11-13 22:31:27 -03:00: 
+2025-11-13 22:31:27 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:31:27 -03:00: > next build
+2025-11-13 22:31:27 -03:00: 
+2025-11-13 22:31:27 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:31:27 -03:00: 
+2025-11-13 22:31:27 -03:00:    Creating an optimized production build ...
+2025-11-13 22:31:32 -03:00:  ✓ Compiled successfully in 4.4s
+2025-11-13 22:31:32 -03:00:    Running TypeScript ...
+2025-11-13 22:31:35 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:31:36 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:31:36 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:31:36 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:31:36 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:31:36 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 683.9ms
+2025-11-13 22:31:36 -03:00:    Finalizing page optimization ...
+2025-11-13 22:31:36 -03:00: 
+2025-11-13 22:31:36 -03:00: Route (app)
+2025-11-13 22:31:36 -03:00: ┌ ○ /
+2025-11-13 22:31:36 -03:00: ├ ○ /_not-found
+2025-11-13 22:31:36 -03:00: ├ ○ /home
+2025-11-13 22:31:36 -03:00: └ ○ /icon.png
+2025-11-13 22:31:36 -03:00: 
+2025-11-13 22:31:36 -03:00: 
+2025-11-13 22:31:36 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:31:36 -03:00: 
+2025-11-13 22:31:37 -03:00: 
+2025-11-13 22:31:37 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:31:37 -03:00: > next start
+2025-11-13 22:31:37 -03:00: 
+2025-11-13 22:31:37 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:31:37 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:31:37 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:31:37 -03:00: 
+2025-11-13 22:31:37 -03:00:  ✓ Starting...
+2025-11-13 22:31:37 -03:00:  ✓ Ready in 316ms
+2025-11-13 22:32:07 -03:00: 
+2025-11-13 22:32:07 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:32:07 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:32:07 -03:00: 
+2025-11-13 22:32:08 -03:00: 
+2025-11-13 22:32:08 -03:00: up to date, audited 392 packages in 784ms
+2025-11-13 22:32:08 -03:00: 
+2025-11-13 22:32:08 -03:00: 147 packages are looking for funding
+2025-11-13 22:32:08 -03:00:   run `npm fund` for details
+2025-11-13 22:32:08 -03:00: 
+2025-11-13 22:32:08 -03:00: found 0 vulnerabilities
+2025-11-13 22:32:08 -03:00: 
+2025-11-13 22:32:08 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:32:08 -03:00: > next build
+2025-11-13 22:32:08 -03:00: 
+2025-11-13 22:32:10 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:32:10 -03:00: 
+2025-11-13 22:32:10 -03:00:    Creating an optimized production build ...
+2025-11-13 22:32:16 -03:00:  ✓ Compiled successfully in 5.3s
+2025-11-13 22:32:16 -03:00:    Running TypeScript ...
+2025-11-13 22:32:21 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:32:22 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:32:23 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:32:23 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:32:23 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:32:23 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 846.6ms
+2025-11-13 22:32:23 -03:00:    Finalizing page optimization ...
+2025-11-13 22:32:23 -03:00: 
+2025-11-13 22:32:23 -03:00: Route (app)
+2025-11-13 22:32:23 -03:00: ┌ ○ /
+2025-11-13 22:32:23 -03:00: ├ ○ /_not-found
+2025-11-13 22:32:23 -03:00: ├ ○ /home
+2025-11-13 22:32:23 -03:00: └ ○ /icon.png
+2025-11-13 22:32:23 -03:00: 
+2025-11-13 22:32:23 -03:00: 
+2025-11-13 22:32:23 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:32:23 -03:00: 
+2025-11-13 22:32:23 -03:00: 
+2025-11-13 22:32:23 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:32:23 -03:00: > next start
+2025-11-13 22:32:23 -03:00: 
+2025-11-13 22:32:24 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:32:24 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:32:24 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:32:24 -03:00: 
+2025-11-13 22:32:24 -03:00:  ✓ Starting...
+2025-11-13 22:32:24 -03:00:  ✓ Ready in 484ms
+2025-11-13 22:39:01 -03:00: 
+2025-11-13 22:39:01 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:39:01 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:39:01 -03:00: 
+2025-11-13 22:39:02 -03:00: 
+2025-11-13 22:39:02 -03:00: up to date, audited 392 packages in 761ms
+2025-11-13 22:39:02 -03:00: 
+2025-11-13 22:39:02 -03:00: 147 packages are looking for funding
+2025-11-13 22:39:02 -03:00:   run `npm fund` for details
+2025-11-13 22:39:02 -03:00: 
+2025-11-13 22:39:02 -03:00: found 0 vulnerabilities
+2025-11-13 22:39:02 -03:00: 
+2025-11-13 22:39:02 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:39:02 -03:00: > next build
+2025-11-13 22:39:02 -03:00: 
+2025-11-13 22:39:03 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:39:03 -03:00: 
+2025-11-13 22:39:03 -03:00:    Creating an optimized production build ...
+2025-11-13 22:39:07 -03:00:  ✓ Compiled successfully in 3.5s
+2025-11-13 22:39:07 -03:00:    Running TypeScript ...
+2025-11-13 22:39:11 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:39:11 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:39:12 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:39:12 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:39:12 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:39:12 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 1009.9ms
+2025-11-13 22:39:12 -03:00:    Finalizing page optimization ...
+2025-11-13 22:39:12 -03:00: 
+2025-11-13 22:39:13 -03:00: Route (app)
+2025-11-13 22:39:13 -03:00: ┌ ○ /
+2025-11-13 22:39:13 -03:00: ├ ○ /_not-found
+2025-11-13 22:39:13 -03:00: ├ ○ /home
+2025-11-13 22:39:13 -03:00: └ ○ /icon.png
+2025-11-13 22:39:13 -03:00: 
+2025-11-13 22:39:13 -03:00: 
+2025-11-13 22:39:13 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:39:13 -03:00: 
+2025-11-13 22:39:13 -03:00: 
+2025-11-13 22:39:13 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:39:13 -03:00: > next start
+2025-11-13 22:39:13 -03:00: 
+2025-11-13 22:39:13 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:39:13 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:39:13 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:39:13 -03:00: 
+2025-11-13 22:39:13 -03:00:  ✓ Starting...
+2025-11-13 22:39:14 -03:00:  ✓ Ready in 362ms
+2025-11-13 22:39:47 -03:00: 
+2025-11-13 22:39:47 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:39:47 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:39:47 -03:00: 
+2025-11-13 22:39:48 -03:00: 
+2025-11-13 22:39:48 -03:00: up to date, audited 392 packages in 866ms
+2025-11-13 22:39:48 -03:00: 
+2025-11-13 22:39:48 -03:00: 147 packages are looking for funding
+2025-11-13 22:39:48 -03:00:   run `npm fund` for details
+2025-11-13 22:39:48 -03:00: 
+2025-11-13 22:39:48 -03:00: found 0 vulnerabilities
+2025-11-13 22:39:48 -03:00: 
+2025-11-13 22:39:48 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:39:48 -03:00: > next build
+2025-11-13 22:39:48 -03:00: 
+2025-11-13 22:39:50 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:39:50 -03:00: 
+2025-11-13 22:39:50 -03:00:    Creating an optimized production build ...
+2025-11-13 22:39:55 -03:00:  ✓ Compiled successfully in 4.3s
+2025-11-13 22:39:55 -03:00:    Running TypeScript ...
+2025-11-13 22:39:58 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:39:58 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:39:59 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:39:59 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:39:59 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:39:59 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 770.8ms
+2025-11-13 22:39:59 -03:00:    Finalizing page optimization ...
+2025-11-13 22:39:59 -03:00: 
+2025-11-13 22:39:59 -03:00: Route (app)
+2025-11-13 22:39:59 -03:00: ┌ ○ /
+2025-11-13 22:39:59 -03:00: ├ ○ /_not-found
+2025-11-13 22:39:59 -03:00: ├ ○ /home
+2025-11-13 22:39:59 -03:00: └ ○ /icon.png
+2025-11-13 22:39:59 -03:00: 
+2025-11-13 22:39:59 -03:00: 
+2025-11-13 22:39:59 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:39:59 -03:00: 
+2025-11-13 22:40:00 -03:00: 
+2025-11-13 22:40:00 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:40:00 -03:00: > next start
+2025-11-13 22:40:00 -03:00: 
+2025-11-13 22:40:00 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:40:00 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:40:00 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:40:00 -03:00: 
+2025-11-13 22:40:00 -03:00:  ✓ Starting...
+2025-11-13 22:40:00 -03:00:  ✓ Ready in 431ms
+2025-11-13 22:41:13 -03:00: 
+2025-11-13 22:41:13 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:41:13 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:41:13 -03:00: 
+2025-11-13 22:41:14 -03:00: 
+2025-11-13 22:41:14 -03:00: up to date, audited 392 packages in 915ms
+2025-11-13 22:41:14 -03:00: 
+2025-11-13 22:41:14 -03:00: 147 packages are looking for funding
+2025-11-13 22:41:14 -03:00:   run `npm fund` for details
+2025-11-13 22:41:14 -03:00: 
+2025-11-13 22:41:14 -03:00: found 0 vulnerabilities
+2025-11-13 22:41:14 -03:00: 
+2025-11-13 22:41:14 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:41:14 -03:00: > next build
+2025-11-13 22:41:14 -03:00: 
+2025-11-13 22:41:15 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:41:15 -03:00: 
+2025-11-13 22:41:15 -03:00:    Creating an optimized production build ...
+2025-11-13 22:41:20 -03:00:  ✓ Compiled successfully in 3.9s
+2025-11-13 22:41:20 -03:00:    Running TypeScript ...
+2025-11-13 22:41:23 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:41:23 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:41:25 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:41:25 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:41:25 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:41:25 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 1061.8ms
+2025-11-13 22:41:25 -03:00:    Finalizing page optimization ...
+2025-11-13 22:41:25 -03:00: 
+2025-11-13 22:41:25 -03:00: Route (app)
+2025-11-13 22:41:25 -03:00: ┌ ○ /
+2025-11-13 22:41:25 -03:00: ├ ○ /_not-found
+2025-11-13 22:41:25 -03:00: ├ ○ /home
+2025-11-13 22:41:25 -03:00: └ ○ /icon.png
+2025-11-13 22:41:25 -03:00: 
+2025-11-13 22:41:25 -03:00: 
+2025-11-13 22:41:25 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:41:25 -03:00: 
+2025-11-13 22:41:25 -03:00: 
+2025-11-13 22:41:25 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:41:25 -03:00: > next start
+2025-11-13 22:41:25 -03:00: 
+2025-11-13 22:41:26 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:41:26 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:41:26 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:41:26 -03:00: 
+2025-11-13 22:41:26 -03:00:  ✓ Starting...
+2025-11-13 22:41:26 -03:00:  ✓ Ready in 628ms
+2025-11-13 22:42:36 -03:00: 
+2025-11-13 22:42:36 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:42:36 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:42:36 -03:00: 
+2025-11-13 22:42:37 -03:00: 
+2025-11-13 22:42:37 -03:00: up to date, audited 392 packages in 915ms
+2025-11-13 22:42:37 -03:00: 
+2025-11-13 22:42:37 -03:00: 147 packages are looking for funding
+2025-11-13 22:42:37 -03:00:   run `npm fund` for details
+2025-11-13 22:42:37 -03:00: 
+2025-11-13 22:42:37 -03:00: found 0 vulnerabilities
+2025-11-13 22:42:37 -03:00: 
+2025-11-13 22:42:37 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:42:37 -03:00: > next build
+2025-11-13 22:42:37 -03:00: 
+2025-11-13 22:42:38 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:42:38 -03:00: 
+2025-11-13 22:42:38 -03:00:    Creating an optimized production build ...
+2025-11-13 22:42:44 -03:00:  ✓ Compiled successfully in 5.1s
+2025-11-13 22:42:44 -03:00:    Running TypeScript ...
+2025-11-13 22:42:48 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:42:48 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:42:49 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:42:49 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:42:49 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:42:49 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 709.9ms
+2025-11-13 22:42:49 -03:00:    Finalizing page optimization ...
+2025-11-13 22:42:49 -03:00: 
+2025-11-13 22:42:49 -03:00: Route (app)
+2025-11-13 22:42:49 -03:00: ┌ ○ /
+2025-11-13 22:42:49 -03:00: ├ ○ /_not-found
+2025-11-13 22:42:49 -03:00: ├ ○ /home
+2025-11-13 22:42:49 -03:00: └ ○ /icon.png
+2025-11-13 22:42:49 -03:00: 
+2025-11-13 22:42:49 -03:00: 
+2025-11-13 22:42:49 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:42:49 -03:00: 
+2025-11-13 22:42:50 -03:00: 
+2025-11-13 22:42:50 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:42:50 -03:00: > next start
+2025-11-13 22:42:50 -03:00: 
+2025-11-13 22:42:50 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:42:50 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:42:50 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:42:50 -03:00: 
+2025-11-13 22:42:50 -03:00:  ✓ Starting...
+2025-11-13 22:42:50 -03:00:  ✓ Ready in 448ms
+2025-11-13 22:43:27 -03:00: 
+2025-11-13 22:43:27 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:43:27 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:43:27 -03:00: 
+2025-11-13 22:43:28 -03:00: 
+2025-11-13 22:43:28 -03:00: up to date, audited 392 packages in 820ms
+2025-11-13 22:43:28 -03:00: 
+2025-11-13 22:43:28 -03:00: 147 packages are looking for funding
+2025-11-13 22:43:28 -03:00:   run `npm fund` for details
+2025-11-13 22:43:28 -03:00: 
+2025-11-13 22:43:28 -03:00: found 0 vulnerabilities
+2025-11-13 22:43:28 -03:00: 
+2025-11-13 22:43:28 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:43:28 -03:00: > next build
+2025-11-13 22:43:28 -03:00: 
+2025-11-13 22:43:30 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:43:30 -03:00: 
+2025-11-13 22:43:30 -03:00:    Creating an optimized production build ...
+2025-11-13 22:43:35 -03:00:  ✓ Compiled successfully in 3.9s
+2025-11-13 22:43:35 -03:00:    Running TypeScript ...
+2025-11-13 22:43:38 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:43:39 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:43:40 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:43:40 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:43:40 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:43:40 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 887.3ms
+2025-11-13 22:43:40 -03:00:    Finalizing page optimization ...
+2025-11-13 22:43:40 -03:00: 
+2025-11-13 22:43:40 -03:00: Route (app)
+2025-11-13 22:43:40 -03:00: ┌ ○ /
+2025-11-13 22:43:40 -03:00: ├ ○ /_not-found
+2025-11-13 22:43:40 -03:00: ├ ○ /home
+2025-11-13 22:43:40 -03:00: └ ○ /icon.png
+2025-11-13 22:43:40 -03:00: 
+2025-11-13 22:43:40 -03:00: 
+2025-11-13 22:43:40 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:43:40 -03:00: 
+2025-11-13 22:43:40 -03:00: 
+2025-11-13 22:43:40 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:43:40 -03:00: > next start
+2025-11-13 22:43:40 -03:00: 
+2025-11-13 22:43:41 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:43:41 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:43:41 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:43:41 -03:00: 
+2025-11-13 22:43:41 -03:00:  ✓ Starting...
+2025-11-13 22:43:41 -03:00:  ✓ Ready in 476ms
+2025-11-13 22:44:00 -03:00: 
+2025-11-13 22:44:00 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:44:00 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:44:00 -03:00: 
+2025-11-13 22:44:01 -03:00: 
+2025-11-13 22:44:01 -03:00: up to date, audited 392 packages in 915ms
+2025-11-13 22:44:01 -03:00: 
+2025-11-13 22:44:01 -03:00: 147 packages are looking for funding
+2025-11-13 22:44:01 -03:00:   run `npm fund` for details
+2025-11-13 22:44:01 -03:00: 
+2025-11-13 22:44:01 -03:00: found 0 vulnerabilities
+2025-11-13 22:44:01 -03:00: 
+2025-11-13 22:44:01 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:44:01 -03:00: > next build
+2025-11-13 22:44:01 -03:00: 
+2025-11-13 22:44:03 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:44:03 -03:00: 
+2025-11-13 22:44:03 -03:00:    Creating an optimized production build ...
+2025-11-13 22:44:09 -03:00:  ✓ Compiled successfully in 5.4s
+2025-11-13 22:44:09 -03:00:    Running TypeScript ...
+2025-11-13 22:44:13 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:44:14 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:44:15 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:44:15 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:44:15 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:44:15 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 1050.6ms
+2025-11-13 22:44:15 -03:00:    Finalizing page optimization ...
+2025-11-13 22:44:15 -03:00: 
+2025-11-13 22:44:15 -03:00: Route (app)
+2025-11-13 22:44:15 -03:00: ┌ ○ /
+2025-11-13 22:44:15 -03:00: ├ ○ /_not-found
+2025-11-13 22:44:15 -03:00: ├ ○ /home
+2025-11-13 22:44:15 -03:00: └ ○ /icon.png
+2025-11-13 22:44:15 -03:00: 
+2025-11-13 22:44:15 -03:00: 
+2025-11-13 22:44:15 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:44:15 -03:00: 
+2025-11-13 22:44:16 -03:00: 
+2025-11-13 22:44:16 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:44:16 -03:00: > next start
+2025-11-13 22:44:16 -03:00: 
+2025-11-13 22:44:16 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:44:16 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:44:16 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:44:16 -03:00: 
+2025-11-13 22:44:16 -03:00:  ✓ Starting...
+2025-11-13 22:44:17 -03:00:  ✓ Ready in 529ms
+2025-11-13 22:45:21 -03:00: 
+2025-11-13 22:45:21 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:45:21 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:45:21 -03:00: 
+2025-11-13 22:45:22 -03:00: 
+2025-11-13 22:45:22 -03:00: up to date, audited 392 packages in 921ms
+2025-11-13 22:45:22 -03:00: 
+2025-11-13 22:45:22 -03:00: 147 packages are looking for funding
+2025-11-13 22:45:22 -03:00:   run `npm fund` for details
+2025-11-13 22:45:22 -03:00: 
+2025-11-13 22:45:22 -03:00: found 0 vulnerabilities
+2025-11-13 22:45:22 -03:00: 
+2025-11-13 22:45:22 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:45:22 -03:00: > next build
+2025-11-13 22:45:22 -03:00: 
+2025-11-13 22:45:23 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:45:23 -03:00: 
+2025-11-13 22:45:23 -03:00:    Creating an optimized production build ...
+2025-11-13 22:45:29 -03:00:  ✓ Compiled successfully in 5.4s
+2025-11-13 22:45:29 -03:00:    Running TypeScript ...
+2025-11-13 22:45:34 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:45:35 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:45:36 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:45:36 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:45:36 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:45:36 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 1008.6ms
+2025-11-13 22:45:36 -03:00:    Finalizing page optimization ...
+2025-11-13 22:45:36 -03:00: 
+2025-11-13 22:45:36 -03:00: Route (app)
+2025-11-13 22:45:36 -03:00: ┌ ○ /
+2025-11-13 22:45:36 -03:00: ├ ○ /_not-found
+2025-11-13 22:45:36 -03:00: ├ ○ /home
+2025-11-13 22:45:36 -03:00: └ ○ /icon.png
+2025-11-13 22:45:36 -03:00: 
+2025-11-13 22:45:36 -03:00: 
+2025-11-13 22:45:36 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:45:36 -03:00: 
+2025-11-13 22:45:36 -03:00: 
+2025-11-13 22:45:36 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:45:36 -03:00: > next start
+2025-11-13 22:45:36 -03:00: 
+2025-11-13 22:45:37 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:45:37 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:45:37 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:45:37 -03:00: 
+2025-11-13 22:45:37 -03:00:  ✓ Starting...
+2025-11-13 22:45:37 -03:00:  ✓ Ready in 528ms
+2025-11-13 22:46:12 -03:00: 
+2025-11-13 22:46:12 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:46:12 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:46:12 -03:00: 
+2025-11-13 22:46:13 -03:00: 
+2025-11-13 22:46:13 -03:00: up to date, audited 392 packages in 874ms
+2025-11-13 22:46:13 -03:00: 
+2025-11-13 22:46:13 -03:00: 147 packages are looking for funding
+2025-11-13 22:46:13 -03:00:   run `npm fund` for details
+2025-11-13 22:46:13 -03:00: 
+2025-11-13 22:46:13 -03:00: found 0 vulnerabilities
+2025-11-13 22:46:14 -03:00: 
+2025-11-13 22:46:14 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:46:14 -03:00: > next build
+2025-11-13 22:46:14 -03:00: 
+2025-11-13 22:46:15 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:46:15 -03:00: 
+2025-11-13 22:46:15 -03:00:    Creating an optimized production build ...
+2025-11-13 22:46:19 -03:00:  ✓ Compiled successfully in 3.7s
+2025-11-13 22:46:19 -03:00:    Running TypeScript ...
+2025-11-13 22:46:23 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:46:24 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:46:24 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:46:24 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:46:24 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:46:24 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 788.6ms
+2025-11-13 22:46:25 -03:00:    Finalizing page optimization ...
+2025-11-13 22:46:25 -03:00: 
+2025-11-13 22:46:25 -03:00: Route (app)
+2025-11-13 22:46:25 -03:00: ┌ ○ /
+2025-11-13 22:46:25 -03:00: ├ ○ /_not-found
+2025-11-13 22:46:25 -03:00: ├ ○ /home
+2025-11-13 22:46:25 -03:00: └ ○ /icon.png
+2025-11-13 22:46:25 -03:00: 
+2025-11-13 22:46:25 -03:00: 
+2025-11-13 22:46:25 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:46:25 -03:00: 
+2025-11-13 22:46:25 -03:00: 
+2025-11-13 22:46:25 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:46:25 -03:00: > next start
+2025-11-13 22:46:25 -03:00: 
+2025-11-13 22:46:25 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:46:25 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:46:25 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:46:25 -03:00: 
+2025-11-13 22:46:25 -03:00:  ✓ Starting...
+2025-11-13 22:46:26 -03:00:  ✓ Ready in 404ms
+2025-11-13 22:48:20 -03:00: 
+2025-11-13 22:48:20 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:48:20 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:48:20 -03:00: 
+2025-11-13 22:48:21 -03:00: 
+2025-11-13 22:48:21 -03:00: up to date, audited 392 packages in 907ms
+2025-11-13 22:48:21 -03:00: 
+2025-11-13 22:48:21 -03:00: 147 packages are looking for funding
+2025-11-13 22:48:21 -03:00:   run `npm fund` for details
+2025-11-13 22:48:21 -03:00: 
+2025-11-13 22:48:21 -03:00: found 0 vulnerabilities
+2025-11-13 22:48:21 -03:00: 
+2025-11-13 22:48:21 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:48:21 -03:00: > next build
+2025-11-13 22:48:21 -03:00: 
+2025-11-13 22:48:23 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:48:23 -03:00: 
+2025-11-13 22:48:23 -03:00:    Creating an optimized production build ...
+2025-11-13 22:48:27 -03:00:  ✓ Compiled successfully in 3.9s
+2025-11-13 22:48:27 -03:00:    Running TypeScript ...
+2025-11-13 22:48:30 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:48:31 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:48:32 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:48:32 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:48:32 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:48:32 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 904.3ms
+2025-11-13 22:48:32 -03:00:    Finalizing page optimization ...
+2025-11-13 22:48:32 -03:00: 
+2025-11-13 22:48:32 -03:00: Route (app)
+2025-11-13 22:48:32 -03:00: ┌ ○ /
+2025-11-13 22:48:32 -03:00: ├ ○ /_not-found
+2025-11-13 22:48:32 -03:00: ├ ○ /home
+2025-11-13 22:48:32 -03:00: └ ○ /icon.png
+2025-11-13 22:48:32 -03:00: 
+2025-11-13 22:48:32 -03:00: 
+2025-11-13 22:48:32 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:48:32 -03:00: 
+2025-11-13 22:48:33 -03:00: 
+2025-11-13 22:48:33 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:48:33 -03:00: > next start
+2025-11-13 22:48:33 -03:00: 
+2025-11-13 22:48:33 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:48:33 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:48:33 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:48:33 -03:00: 
+2025-11-13 22:48:33 -03:00:  ✓ Starting...
+2025-11-13 22:48:33 -03:00:  ✓ Ready in 485ms
+2025-11-13 22:49:24 -03:00: 
+2025-11-13 22:49:24 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:49:24 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:49:24 -03:00: 
+2025-11-13 22:49:25 -03:00: 
+2025-11-13 22:49:25 -03:00: up to date, audited 392 packages in 845ms
+2025-11-13 22:49:25 -03:00: 
+2025-11-13 22:49:25 -03:00: 147 packages are looking for funding
+2025-11-13 22:49:25 -03:00:   run `npm fund` for details
+2025-11-13 22:49:25 -03:00: 
+2025-11-13 22:49:25 -03:00: found 0 vulnerabilities
+2025-11-13 22:49:25 -03:00: 
+2025-11-13 22:49:25 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:49:25 -03:00: > next build
+2025-11-13 22:49:25 -03:00: 
+2025-11-13 22:49:27 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:49:27 -03:00: 
+2025-11-13 22:49:27 -03:00:    Creating an optimized production build ...
+2025-11-13 22:49:32 -03:00:  ✓ Compiled successfully in 4.3s
+2025-11-13 22:49:32 -03:00:    Running TypeScript ...
+2025-11-13 22:49:36 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:49:37 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:49:37 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:49:37 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:49:37 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:49:37 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 769.3ms
+2025-11-13 22:49:37 -03:00:    Finalizing page optimization ...
+2025-11-13 22:49:37 -03:00: 
+2025-11-13 22:49:37 -03:00: Route (app)
+2025-11-13 22:49:37 -03:00: ┌ ○ /
+2025-11-13 22:49:37 -03:00: ├ ○ /_not-found
+2025-11-13 22:49:37 -03:00: ├ ○ /home
+2025-11-13 22:49:37 -03:00: └ ○ /icon.png
+2025-11-13 22:49:37 -03:00: 
+2025-11-13 22:49:37 -03:00: 
+2025-11-13 22:49:37 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:49:37 -03:00: 
+2025-11-13 22:49:38 -03:00: 
+2025-11-13 22:49:38 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:49:38 -03:00: > next start
+2025-11-13 22:49:38 -03:00: 
+2025-11-13 22:49:38 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:49:38 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:49:38 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:49:38 -03:00: 
+2025-11-13 22:49:38 -03:00:  ✓ Starting...
+2025-11-13 22:49:39 -03:00:  ✓ Ready in 478ms
+2025-11-13 22:50:36 -03:00: 
+2025-11-13 22:50:36 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:50:36 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:50:36 -03:00: 
+2025-11-13 22:50:36 -03:00: 
+2025-11-13 22:50:36 -03:00: up to date, audited 392 packages in 886ms
+2025-11-13 22:50:36 -03:00: 
+2025-11-13 22:50:36 -03:00: 147 packages are looking for funding
+2025-11-13 22:50:36 -03:00:   run `npm fund` for details
+2025-11-13 22:50:36 -03:00: 
+2025-11-13 22:50:36 -03:00: found 0 vulnerabilities
+2025-11-13 22:50:37 -03:00: 
+2025-11-13 22:50:37 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:50:37 -03:00: > next build
+2025-11-13 22:50:37 -03:00: 
+2025-11-13 22:50:38 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:50:38 -03:00: 
+2025-11-13 22:50:38 -03:00:    Creating an optimized production build ...
+2025-11-13 22:50:42 -03:00:  ✓ Compiled successfully in 4.0s
+2025-11-13 22:50:42 -03:00:    Running TypeScript ...
+2025-11-13 22:50:47 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:50:47 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:50:48 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:50:48 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:50:48 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:50:48 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 730.2ms
+2025-11-13 22:50:48 -03:00:    Finalizing page optimization ...
+2025-11-13 22:50:48 -03:00: 
+2025-11-13 22:50:48 -03:00: Route (app)
+2025-11-13 22:50:48 -03:00: ┌ ○ /
+2025-11-13 22:50:48 -03:00: ├ ○ /_not-found
+2025-11-13 22:50:48 -03:00: ├ ○ /home
+2025-11-13 22:50:48 -03:00: └ ○ /icon.png
+2025-11-13 22:50:48 -03:00: 
+2025-11-13 22:50:48 -03:00: 
+2025-11-13 22:50:48 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:50:48 -03:00: 
+2025-11-13 22:50:49 -03:00: 
+2025-11-13 22:50:49 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:50:49 -03:00: > next start
+2025-11-13 22:50:49 -03:00: 
+2025-11-13 22:50:49 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:50:49 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:50:49 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:50:49 -03:00: 
+2025-11-13 22:50:49 -03:00:  ✓ Starting...
+2025-11-13 22:50:49 -03:00:  ✓ Ready in 440ms
+2025-11-13 22:51:18 -03:00: 
+2025-11-13 22:51:18 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:51:18 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:51:18 -03:00: 
+2025-11-13 22:51:19 -03:00: 
+2025-11-13 22:51:19 -03:00: up to date, audited 392 packages in 1s
+2025-11-13 22:51:19 -03:00: 
+2025-11-13 22:51:19 -03:00: 147 packages are looking for funding
+2025-11-13 22:51:19 -03:00:   run `npm fund` for details
+2025-11-13 22:51:19 -03:00: 
+2025-11-13 22:51:19 -03:00: found 0 vulnerabilities
+2025-11-13 22:51:19 -03:00: 
+2025-11-13 22:51:19 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:51:19 -03:00: > next build
+2025-11-13 22:51:19 -03:00: 
+2025-11-13 22:51:20 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:51:20 -03:00: 
+2025-11-13 22:51:21 -03:00:    Creating an optimized production build ...
+2025-11-13 22:51:25 -03:00:  ✓ Compiled successfully in 4.0s
+2025-11-13 22:51:25 -03:00:    Running TypeScript ...
+2025-11-13 22:51:29 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:51:30 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:51:31 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:51:31 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:51:31 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:51:31 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 827.7ms
+2025-11-13 22:51:31 -03:00:    Finalizing page optimization ...
+2025-11-13 22:51:31 -03:00: 
+2025-11-13 22:51:31 -03:00: Route (app)
+2025-11-13 22:51:31 -03:00: ┌ ○ /
+2025-11-13 22:51:31 -03:00: ├ ○ /_not-found
+2025-11-13 22:51:31 -03:00: ├ ○ /home
+2025-11-13 22:51:31 -03:00: └ ○ /icon.png
+2025-11-13 22:51:31 -03:00: 
+2025-11-13 22:51:31 -03:00: 
+2025-11-13 22:51:31 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:51:31 -03:00: 
+2025-11-13 22:51:31 -03:00: 
+2025-11-13 22:51:31 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:51:31 -03:00: > next start
+2025-11-13 22:51:31 -03:00: 
+2025-11-13 22:51:32 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:51:32 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:51:32 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:51:32 -03:00: 
+2025-11-13 22:51:32 -03:00:  ✓ Starting...
+2025-11-13 22:51:32 -03:00:  ✓ Ready in 467ms
+2025-11-13 22:52:37 -03:00: 
+2025-11-13 22:52:37 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:52:37 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:52:37 -03:00: 
+2025-11-13 22:52:38 -03:00: 
+2025-11-13 22:52:38 -03:00: up to date, audited 392 packages in 915ms
+2025-11-13 22:52:38 -03:00: 
+2025-11-13 22:52:38 -03:00: 147 packages are looking for funding
+2025-11-13 22:52:38 -03:00:   run `npm fund` for details
+2025-11-13 22:52:38 -03:00: 
+2025-11-13 22:52:38 -03:00: found 0 vulnerabilities
+2025-11-13 22:52:38 -03:00: 
+2025-11-13 22:52:38 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:52:38 -03:00: > next build
+2025-11-13 22:52:38 -03:00: 
+2025-11-13 22:52:40 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:52:40 -03:00: 
+2025-11-13 22:52:40 -03:00:    Creating an optimized production build ...
+2025-11-13 22:52:46 -03:00:  ✓ Compiled successfully in 5.4s
+2025-11-13 22:52:46 -03:00:    Running TypeScript ...
+2025-11-13 22:52:49 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:52:50 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:52:51 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:52:51 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:52:51 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:52:51 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 733.3ms
+2025-11-13 22:52:51 -03:00:    Finalizing page optimization ...
+2025-11-13 22:52:51 -03:00: 
+2025-11-13 22:52:51 -03:00: Route (app)
+2025-11-13 22:52:51 -03:00: ┌ ○ /
+2025-11-13 22:52:51 -03:00: ├ ○ /_not-found
+2025-11-13 22:52:51 -03:00: ├ ○ /home
+2025-11-13 22:52:51 -03:00: └ ○ /icon.png
+2025-11-13 22:52:51 -03:00: 
+2025-11-13 22:52:51 -03:00: 
+2025-11-13 22:52:51 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:52:51 -03:00: 
+2025-11-13 22:52:52 -03:00: 
+2025-11-13 22:52:52 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:52:52 -03:00: > next start
+2025-11-13 22:52:52 -03:00: 
+2025-11-13 22:52:52 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:52:52 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:52:52 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:52:52 -03:00: 
+2025-11-13 22:52:52 -03:00:  ✓ Starting...
+2025-11-13 22:52:52 -03:00:  ✓ Ready in 510ms
+2025-11-13 22:53:25 -03:00: 
+2025-11-13 22:53:25 -03:00: > ironblock-web@0.1.0 start:pm2
+2025-11-13 22:53:25 -03:00: > npm i && npm run build && npm start
+2025-11-13 22:53:25 -03:00: 
+2025-11-13 22:53:26 -03:00: 
+2025-11-13 22:53:26 -03:00: up to date, audited 392 packages in 1s
+2025-11-13 22:53:26 -03:00: 
+2025-11-13 22:53:26 -03:00: 147 packages are looking for funding
+2025-11-13 22:53:26 -03:00:   run `npm fund` for details
+2025-11-13 22:53:26 -03:00: 
+2025-11-13 22:53:26 -03:00: found 0 vulnerabilities
+2025-11-13 22:53:27 -03:00: 
+2025-11-13 22:53:27 -03:00: > ironblock-web@0.1.0 build
+2025-11-13 22:53:27 -03:00: > next build
+2025-11-13 22:53:27 -03:00: 
+2025-11-13 22:53:29 -03:00:    ▲ Next.js 16.0.3 (Turbopack)
+2025-11-13 22:53:29 -03:00: 
+2025-11-13 22:53:29 -03:00:    Creating an optimized production build ...
+2025-11-13 22:53:35 -03:00:  ✓ Compiled successfully in 4.8s
+2025-11-13 22:53:35 -03:00:    Running TypeScript ...
+2025-11-13 22:53:38 -03:00:    Collecting page data using 11 workers ...
+2025-11-13 22:53:39 -03:00:    Generating static pages using 11 workers (0/5) ...
+2025-11-13 22:53:40 -03:00:    Generating static pages using 11 workers (1/5) 
+2025-11-13 22:53:40 -03:00:    Generating static pages using 11 workers (2/5) 
+2025-11-13 22:53:40 -03:00:    Generating static pages using 11 workers (3/5) 
+2025-11-13 22:53:40 -03:00:  ✓ Generating static pages using 11 workers (5/5) in 1237.8ms
+2025-11-13 22:53:41 -03:00:    Finalizing page optimization ...
+2025-11-13 22:53:41 -03:00: 
+2025-11-13 22:53:41 -03:00: Route (app)
+2025-11-13 22:53:41 -03:00: ┌ ○ /
+2025-11-13 22:53:41 -03:00: ├ ○ /_not-found
+2025-11-13 22:53:41 -03:00: ├ ○ /home
+2025-11-13 22:53:41 -03:00: └ ○ /icon.png
+2025-11-13 22:53:41 -03:00: 
+2025-11-13 22:53:41 -03:00: 
+2025-11-13 22:53:41 -03:00: ○  (Static)  prerendered as static content
+2025-11-13 22:53:41 -03:00: 
+2025-11-13 22:53:41 -03:00: 
+2025-11-13 22:53:41 -03:00: > ironblock-web@0.1.0 start
+2025-11-13 22:53:41 -03:00: > next start
+2025-11-13 22:53:41 -03:00: 
+2025-11-13 22:53:41 -03:00:    ▲ Next.js 16.0.3
+2025-11-13 22:53:41 -03:00:    - Local:         http://localhost:3001
+2025-11-13 22:53:41 -03:00:    - Network:       http://192.168.1.4:3001
+2025-11-13 22:53:41 -03:00: 
+2025-11-13 22:53:41 -03:00:  ✓ Starting...
+2025-11-13 22:53:42 -03:00:  ✓ Ready in 398ms
