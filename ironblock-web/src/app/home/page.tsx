@@ -1,25 +1,13 @@
 "use client";
 
-import {
-  Navigation,
-  HeroSection,
-  ApplicationShowcaseSection,
-  BaaSServicesSection,
-  WhatsAppContactSection,
-  ContactSection,
-  Footer,
-} from "./_sections";
+import { Navigation, HeroSection, Footer } from "./_sections";
 import { WhatsAppButton } from "../../components/WhatsAppButton";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-black">
+    <div className="min-h-screen bg-background">
       <Navigation />
       <HeroSection />
-      {/* <BaaSServicesSection />
-      <ApplicationShowcaseSection />
-      <WhatsAppContactSection /> */}
-      {/* <ContactSection /> */}
       <Footer />
       <WhatsAppButton
         phoneNumber="5511961282600"

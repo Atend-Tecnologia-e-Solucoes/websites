@@ -3,6 +3,8 @@
 @source "../**/*.{js,ts,jsx,tsx,mdx}";
 
 @theme {
+  --color-background: #ffffff;
+  --color-foreground: #e6efff;
   --color-primary-50: #021c2b;
   --color-primary-100: #033854;
   --color-primary-200: #04547d;
@@ -16,8 +18,8 @@
 }
 
 :root {
-  --background: #000000;
-  --foreground: #ffffff;
+  --background: #ffffff;
+  --foreground: #e6efff;
 }
 
 body {

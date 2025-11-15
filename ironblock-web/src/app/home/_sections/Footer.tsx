@@ -2,32 +2,35 @@ import Link from "next/link";
 
 export function Footer() {
   return (
-    <footer className="bg-black text-gray-100 py-12 px-4 sm:px-6 lg:px-8 border-t border-gray-900">
-      <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+    <footer
+      id="contato"
+      className="bg-background text-gray-900 py-12 px-4 sm:px-6 lg:px-8 border-t border-gray-900"
+    >
+      <div className="max-w-8xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-100">
           <div>
-            <h3 className="text-2xl font-bold mb-4 text-white">Iron Block</h3>
-            <p className="text-gray-400">
-              Plataforma BaaS completa para empresas que desejam oferecer
-              serviços financeiros digitais sem complexidade.
+            <h3 className="text-2xl font-bold mb-4 text-primary-100">
+              Iron Block
+            </h3>
+            <p className="text-gray-600">
+              {" "}
+              A tokenização de ativos é uma solução inovadora que transforma a
+              maneira como as empresas operam, tornando seus processos mais
+              eficientes, seguros e acessíveis. Na IronBlock, somos
+              especialistas no desenvolvimento de tokens e em sua integração em
+              redes Blockchain, sejam elas públicas ou privadas.
             </p>
           </div>
           <div>
-            <h4 className="font-semibold mb-4 text-white">Serviços</h4>
-            <ul className="space-y-2 text-gray-400">
-              <li>
-                <Link href="#" className="hover:text-primary-500 transition">
-                  Em breve
-                </Link>
-              </li>
-            </ul>
-          </div>
-          <div>
-            <h4 className="font-semibold mb-4 text-white">Contato</h4>
-            <p className="text-gray-400">
-              Rua Manual da Silva Mano, 297, Ourinhos-SP <br /> Email:
-              comercial@atend.srv.br <br /> Phone: +55 (11) 961282600 <br /> ©
-              Copyright Iron Block
+            <h4 className="font-semibold mb-4 text-gray-900">Contato</h4>
+            <p className="text-gray-600">
+              Rua Gomes de Carvalho 1629, conjunto 129931
+              <br />
+              CEP 04547-006 - Vila Olímpia - São Paulo-SP
+              <br />
+              Telefone +5511 40811014
+              <br />
+              Email: comercial@ironblock.com.br
             </p>
           </div>
         </div>

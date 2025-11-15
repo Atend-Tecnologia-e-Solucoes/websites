@@ -5,50 +5,46 @@ import { FadeIn, FadeInUp, ScaleIn } from "../../../components/animations";
 
 export function HeroSection() {
   return (
-    <section
-      id="inicio"
-      className="relative min-h-screen flex items-baseline justify-center pt-0 pb-16 px-4 sm:px-6 lg:px-8 overflow-hidden"
-    >
-      {/* Vídeo de fundo */}
-      <div className="absolute inset-0 w-full h-full">
-        <video
-          autoPlay
-          loop
-          muted
-          playsInline
-          className="absolute inset-0 w-full h-full object-cover"
-        >
-          <source src="/images/0_Space_Stars_3840x2160.mp4" type="video/mp4" />
-        </video>
-      </div>
+    <section id="inicio" className="relative flex flex-col overflow-hidden">
+      {/* Parte 1: Seção com logo */}
+      <div className="relative h-[92vh] flex items-start justify-start px-4 sm:px-6 lg:px-8">
+        {/* Imagem de fundo centralizada */}
+        <div className="absolute inset-0 w-full h-full">
+          <Image
+            src="/images/fundo-geometrico-abstrato-8000x4153.jpg"
+            alt="fundo geometrico abstrato"
+            fill
+            className="object-cover object-center"
+            priority
+            sizes="100% 100%"
+          />
+        </div>
 
-      {/* Overlay escuro para legibilidade */}
-      <div className="absolute inset-0 bg-black/60" />
-
-      {/* Conteúdo principal */}
-      <div className="relative z-10 max-w-4xl pt-28 mx-auto w-full text-center">
         <FadeIn>
-          {/* Logo com animação de escala */}
-          <ScaleIn delay={0.2} className="flex justify-center mb-1">
-            <div className="relative w-64 h-64 sm:w-80 sm:h-80 md:w-96 md:h-96 mx-auto">
+          <ScaleIn delay={0.2}>
+            <div className="relative w-[205px] h-[205px] sm:w-64 sm:h-64 md:w-[307px] md:h-[307px] lg:w-[358px] lg:h-[358px]">
               <Image
                 src="/images/iron-block-logo.png"
                 alt="Iron Block Logo"
                 fill
-                className="object-contain drop-shadow-2xl"
+                className="object-contain"
                 priority
-                sizes="(max-width: 640px) 256px, (max-width: 768px) 320px, 384px"
+                sizes="(max-width: 640px) 205px, (max-width: 768px) 256px, (max-width: 1024px) 307px, 358px"
               />
             </div>
           </ScaleIn>
+        </FadeIn>
+      </div>
 
-          {/* Texto principal */}
+      {/* texto em breve */}
+      <div className="absolute bottom-40 left-10 flex items-center justify-center px-4 sm:px-6 lg:px-8">
+        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-gray-800">
           <FadeInUp delay={0.4}>
-            <h1 className="text-4xl sm:text-4xl md:text-4xl lg:text-4xl font-bold text-gray-400 mb-6">
-              Em breve teremos novidades para você
+            <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-gray-800">
+              Em breve
             </h1>
           </FadeInUp>
-        </FadeIn>
+        </h1>
       </div>
     </section>
   );

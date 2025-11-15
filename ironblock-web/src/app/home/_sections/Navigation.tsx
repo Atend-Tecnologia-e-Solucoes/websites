@@ -3,7 +3,8 @@ import Link from "next/link";
 
 export function Navigation() {
   return (
-    <nav className="bg-black border-b border-gray-900 shadow-sm sticky top-0 z-50">
+    // bg var(--background)
+    <nav className="bg-background border-b border-gray-600 shadow-sm sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
@@ -17,7 +18,7 @@ export function Navigation() {
           <div className="hidden md:flex space-x-8">
             <Link
               href="#inicio"
-              className="text-gray-300 hover:text-primary-500 transition"
+              className="text-primary-100 hover:text-primary-400 transition"
             >
               Início
             </Link>
@@ -33,11 +34,10 @@ export function Navigation() {
             >
               Serviços
             </Link> */}
+
             <Link
-              href="https://wa.me/5511961282600"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-300 hover:text-primary-500 transition"
+              href="#contato"
+              className="text-gray-600 hover:text-primary-400 transition"
             >
               Entre em Contato
             </Link>
